@@ -2,7 +2,7 @@
 title:               rb
 tagline:             'un blog'
 description:         'Notas de temas variados.'
-url:                 http://rbarbadillo.github.io
+url:                 https://rbarbadillo.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
