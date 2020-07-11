@@ -2,7 +2,7 @@
 title:               rb
 tagline:             'un blog'
 description:         'Notas de temas variados.'
-url:                 http://lanyon.getpoole.com
+url:                 http://rbarbadillo.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
