@@ -31,7 +31,6 @@ Resumir lo que sale en el flyer.
 
 - Cuantificar aceleraciones y deceleraciones.
 
-{% include pitch.html %}
 
 ## Recursos
 
