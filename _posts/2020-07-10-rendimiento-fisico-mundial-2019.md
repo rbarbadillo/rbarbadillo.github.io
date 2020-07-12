@@ -31,7 +31,7 @@ Resumir lo que sale en el flyer.
 
 - Cuantificar aceleraciones y deceleraciones.
 
-
+{% include pitch.html %}
 ## Recursos
 
 - [Physical Analysis of the FIFA Women’s World Cup France 2019](https://img.fifa.com/image/upload/zijqly4oednqa5gffgaz.pdf) - Informe completo

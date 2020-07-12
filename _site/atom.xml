@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>rb</title>
- <link href="https://rbarbadillo.github.io/atom.xml" rel="self"/>
- <link href="https://rbarbadillo.github.io/"/>
- <updated>2020-07-11T22:57:14+02:00</updated>
- <id>https://rbarbadillo.github.io</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-07-12T09:07:05+02:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Raquel Barbadillo</name>
    <email>raquelbarbadillo@pm.me</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Rendimiento físico en el Mundial de 2019</title>
-   <link href="https://rbarbadillo.github.io/2020/07/10/rendimiento-fisico-mundial-2019/"/>
+   <link href="http://localhost:4000/2020/07/10/rendimiento-fisico-mundial-2019/"/>
    <updated>2020-07-10T00:00:00+02:00</updated>
-   <id>https://rbarbadillo.github.io/2020/07/10/rendimiento-fisico-mundial-2019</id>
+   <id>http://localhost:4000/2020/07/10/rendimiento-fisico-mundial-2019</id>
    <content type="html">&lt;p&gt;FIFA publicó esta semana un informe analizando el rendimiento físico de los equipos en la Copa Mundial Femenina de 2019. En este texto pretendo traducir y resumir la información que considero más relevante, para intentar hacer este estudio más accesible al público general. Como pequeño descargo de responsabilidad diré que no soy especialista en ciencias del deporte; solo una aficionada que intenta hacer llegar este conocimiento a más gente. Si sois o conocéis a alguien experto que quiera hacer una interpretación más profunda de los datos, estaré más que encantada de compartir su trabajo. Si tenéis algún comentario, adición, enmienda o simplemente queréis saludar, &lt;a href=&quot;https://twitter.com/raquelbars/&quot;&gt;podéis hacerlo en Twitter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Presentaré el informe, qué contiene, cómo se ha hecho y por qué. Resumiré las diferencias generales entre la edición de 2015 y la de 2019, y luego me centraré en el progreso demostrado por la Selección Española. Termino con una reflexión sobre qué es necesario para seguir ayudando a la mejora en el rendimiento de las jugadoras.&lt;/p&gt;
@@ -52,6 +52,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;iframe width=&quot;900&quot; height=&quot;800&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; src=&quot;//plotly.com/~rbarbadillo/1.embed&quot;&gt;&lt;/iframe&gt;
 &lt;h2 id=&quot;recursos&quot;&gt;Recursos&lt;/h2&gt;
 
 &lt;ul&gt;
