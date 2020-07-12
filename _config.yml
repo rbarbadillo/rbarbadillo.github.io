@@ -3,6 +3,7 @@ title:               rb
 tagline:             'un blog'
 description:         'Notas de temas variados.'
 url:                 https://rbarbadillo.github.io
+markdown:            kramdown
 baseurl:             ''
 paginate:            5
 permalink:           pretty
