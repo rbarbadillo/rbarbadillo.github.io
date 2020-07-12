@@ -2,15 +2,454 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>rb</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2020-07-12T11:30:07+02:00</updated>
- <id>http://localhost:4000</id>
+ <link href="https://rbarbadillo.github.io/atom.xml" rel="self"/>
+ <link href="https://rbarbadillo.github.io/"/>
+ <updated>2020-07-12T17:18:07+02:00</updated>
+ <id>https://rbarbadillo.github.io</id>
  <author>
    <name>Raquel Barbadillo</name>
    <email>raquelbarbadillo@pm.me</email>
  </author>
 
+ 
+ <entry>
+   <title>Charlas de técnicos futfem en cuarentena</title>
+   <link href="https://rbarbadillo.github.io/2020/05/02/charlas-tecnicos-futfem-cuarentena/"/>
+   <updated>2020-05-02T00:00:00+02:00</updated>
+   <id>https://rbarbadillo.github.io/2020/05/02/charlas-tecnicos-futfem-cuarentena</id>
+   <content type="html">&lt;p&gt;Una recopilación de charlas y conferencias impartidas por miembros de los cuerpos técnicos de equipos de Primera Iberdrola, Reto Iberdrola y la Selección Española de Fútbol durante estos días de confinamiento. Aquellas que estén en YouTube están recogidas también en esta &lt;a href=&quot;https://www.youtube.com/playlist?list=PLuUm6ZOX8e5vwIv3DTKORyqFD_HK873jG&quot;&gt;lista de reproducción&lt;/a&gt;.&lt;/p&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#selección-española&quot; id=&quot;markdown-toc-selección-española&quot;&gt;Selección Española&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#montse-tomé-pedro-lópez-y-kenio-gonzalo---charla-interactiva&quot; id=&quot;markdown-toc-montse-tomé-pedro-lópez-y-kenio-gonzalo---charla-interactiva&quot;&gt;Montse Tomé, Pedro López y Kenio Gonzalo - Charla Interactiva&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#jorge-vilda---encuentrosdigitales&quot; id=&quot;markdown-toc-jorge-vilda---encuentrosdigitales&quot;&gt;Jorge Vilda - #EncuentrosDigitales&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#montse-tomé-y-laura-del--río---charla-interactiva&quot; id=&quot;markdown-toc-montse-tomé-y-laura-del--río---charla-interactiva&quot;&gt;Montse Tomé y Laura del  Río - Charla interactiva&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#jorge-vilda-y-jenni-hermoso---charlando-de-la-copa-mundial-femenina-de-la-fifa-francia-2019&quot; id=&quot;markdown-toc-jorge-vilda-y-jenni-hermoso---charlando-de-la-copa-mundial-femenina-de-la-fifa-francia-2019&quot;&gt;Jorge Vilda y Jenni Hermoso - Charlando de la Copa Mundial Femenina de la FIFA Francia 2019&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#primera-iberdrola&quot; id=&quot;markdown-toc-primera-iberdrola&quot;&gt;Primera Iberdrola&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#maría-pry-manuel-sánchez-y-toña-is---falemos-de-fútbol-feminino&quot; id=&quot;markdown-toc-maría-pry-manuel-sánchez-y-toña-is---falemos-de-fútbol-feminino&quot;&gt;María Pry, Manuel Sánchez y Toña Is - Falemos de Fútbol Feminino&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#gonzalo-arconada-maría-pry-y-sara-monforte---futboltalks&quot; id=&quot;markdown-toc-gonzalo-arconada-maría-pry-y-sara-monforte---futboltalks&quot;&gt;Gonzalo Arconada, María Pry y Sara Monforte - FutbolTalks&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#daniel-pérez---análisis-y-scouting&quot; id=&quot;markdown-toc-daniel-pérez---análisis-y-scouting&quot;&gt;Daniel Pérez - Análisis y Scouting&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#david-aznar---modelo-de-juego&quot; id=&quot;markdown-toc-david-aznar---modelo-de-juego&quot;&gt;David Aznar - Modelo de juego&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#maría-pry-bea-parra-y-nati-gutiérrez---futboldesdecasa&quot; id=&quot;markdown-toc-maría-pry-bea-parra-y-nati-gutiérrez---futboldesdecasa&quot;&gt;María Pry, Bea Parra y Nati Gutiérrez - #FutbolDesdeCasa&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#maría-pry--los-retos-del-futbolista&quot; id=&quot;markdown-toc-maría-pry--los-retos-del-futbolista&quot;&gt;María Pry — Los retos del futbolista&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#cristian-toro---entrevista-en-el-patio&quot; id=&quot;markdown-toc-cristian-toro---entrevista-en-el-patio&quot;&gt;Cristian Toro - Entrevista en El Patio&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#óscar-gaspar---entrenamiento-de-porteros&quot; id=&quot;markdown-toc-óscar-gaspar---entrenamiento-de-porteros&quot;&gt;Óscar Gaspar - Entrenamiento de porteros&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#óscar-gaspar---perfil-técnico-táctico-de-las-porteraas-de-primera-iberdrola-vs-porteras-de-la-fa-womens-superleague&quot; id=&quot;markdown-toc-óscar-gaspar---perfil-técnico-táctico-de-las-porteraas-de-primera-iberdrola-vs-porteras-de-la-fa-womens-superleague&quot;&gt;Óscar Gaspar - Perfil técnico táctico de las porteraas de Primera Iberdrola vs Porteras de la FA Women’s Superleague&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#óscar-suárez-gonzalo-arconada-y-eneritz-lizaso---microciclos&quot; id=&quot;markdown-toc-óscar-suárez-gonzalo-arconada-y-eneritz-lizaso---microciclos&quot;&gt;Óscar Suárez, Gonzalo Arconada y Eneritz Lizaso - Microciclos&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#maría-pry---microciclo-de-entrenamiento-y-preguntas&quot; id=&quot;markdown-toc-maría-pry---microciclo-de-entrenamiento-y-preguntas&quot;&gt;María Pry - Microciclo de entrenamiento y preguntas&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#maría-pry---entrevista-con-la-rfaf&quot; id=&quot;markdown-toc-maría-pry---entrevista-con-la-rfaf&quot;&gt;María Pry - Entrevista con la RFAF&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#josé-luis-sánchez-vera---sistema-de-juego-de-fútbol-femenino&quot; id=&quot;markdown-toc-josé-luis-sánchez-vera---sistema-de-juego-de-fútbol-femenino&quot;&gt;José Luis Sánchez Vera - Sistema de juego de fútbol femenino&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#josé-luis-sánchez-vera---microciclo-del-atm-20182019&quot; id=&quot;markdown-toc-josé-luis-sánchez-vera---microciclo-del-atm-20182019&quot;&gt;José Luis Sánchez Vera - Microciclo del ATM 2018/2019&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#josé-luis-sánchez-vera---entrevista&quot; id=&quot;markdown-toc-josé-luis-sánchez-vera---entrevista&quot;&gt;José Luis Sánchez Vera - Entrevista&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#óscar-fernández---panel-retos-y-oportunidades-de-ser-dt-de-un-equipo-femenino&quot; id=&quot;markdown-toc-óscar-fernández---panel-retos-y-oportunidades-de-ser-dt-de-un-equipo-femenino&quot;&gt;Óscar Fernández - Panel: Retos y oportunidades de ser DT de un equipo femenino&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#carlos-santiso---entrevistas&quot; id=&quot;markdown-toc-carlos-santiso---entrevistas&quot;&gt;Carlos Santiso - Entrevistas&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#raúl-molina---entrevista-en-futboleras-y-consejos-para-un-buen-feedback-como-analista-de-fútbol&quot; id=&quot;markdown-toc-raúl-molina---entrevista-en-futboleras-y-consejos-para-un-buen-feedback-como-analista-de-fútbol&quot;&gt;Raúl Molina - Entrevista en Futboleras y Consejos para un buen feedback como analista de fútbol&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#blanca-crespo---infografía-de-lesiones-de-la-temporada-2019-2020-e-informes-individuales-del-rayo-vallecano-femenino&quot; id=&quot;markdown-toc-blanca-crespo---infografía-de-lesiones-de-la-temporada-2019-2020-e-informes-individuales-del-rayo-vallecano-femenino&quot;&gt;Blanca Crespo - Infografía de lesiones de la temporada 2019-2020 e informes individuales del Rayo Vallecano Femenino&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#irene-ferreras---entrevista-en-el-patio&quot; id=&quot;markdown-toc-irene-ferreras---entrevista-en-el-patio&quot;&gt;Irene Ferreras - Entrevista en El Patio&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#contacto-con-los-ponentes&quot; id=&quot;markdown-toc-contacto-con-los-ponentes&quot;&gt;Contacto con los ponentes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;selección-española&quot;&gt;Selección Española&lt;/h2&gt;
+
+&lt;h3 id=&quot;montse-tomé-pedro-lópez-y-kenio-gonzalo---charla-interactiva&quot;&gt;Montse Tomé, Pedro López y Kenio Gonzalo - Charla Interactiva&lt;/h3&gt;
+
+&lt;p&gt;Charla con Montse Tomé (ayudante de Jorge Vilda en la selección absoluta y entrenadora de la selección promesas y sub-17), Pedro López (seleccionador sub-20 y sub-19) y Kenio Gonzalo (preparador físico de la selección absoluta y seleccionador sub-15 y sub-16).&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/12qBqr25hRI&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;jorge-vilda---encuentrosdigitales&quot;&gt;Jorge Vilda - #EncuentrosDigitales&lt;/h3&gt;
+
+&lt;p&gt;Encuentro digital de las jugadoras de las distintas selecciones extremeñas con Jorge Vilda, entrenador de la selección absoluta.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/12qBqr25hRI&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;montse-tomé-y-laura-del--río---charla-interactiva&quot;&gt;Montse Tomé y Laura del  Río - Charla interactiva&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/b7edZqrDLEU&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;jorge-vilda-y-jenni-hermoso---charlando-de-la-copa-mundial-femenina-de-la-fifa-francia-2019&quot;&gt;Jorge Vilda y Jenni Hermoso - Charlando de la Copa Mundial Femenina de la FIFA Francia 2019&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/8gryqtxzN1M&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;primera-iberdrola&quot;&gt;Primera Iberdrola&lt;/h2&gt;
+
+&lt;h3 id=&quot;maría-pry-manuel-sánchez-y-toña-is---falemos-de-fútbol-feminino&quot;&gt;María Pry, Manuel Sánchez y Toña Is - Falemos de Fútbol Feminino&lt;/h3&gt;
+
+&lt;p&gt;Charla con María Pry (entrenadora del Levante UD), Manuel Sánchez (entrenador del Deportivo Abanca) y Toña Is (ex-entrenadora de la selección sub-17).&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/8gryqtxzN1M&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;gonzalo-arconada-maría-pry-y-sara-monforte---futboltalks&quot;&gt;Gonzalo Arconada, María Pry y Sara Monforte - FutbolTalks&lt;/h3&gt;
+
+&lt;p&gt;Charla entre Gonzalo Arconada (ex-entrenador de la Real Sociedad), María Pry (entrenadora del Levante UD) y Sara Monforte (entrenadora del Villareal CF). Esta charla la ofrece SportCoach dentro del marco de su curso gratuito FutbolTalks. Podéis acceder a ella &lt;a href=&quot;https://sportcoach.es/producto/futbol-talks/&quot;&gt;aquí&lt;/a&gt;, debéis “comprar” el curso (son 0€) y luego llegar a la charla número 4.&lt;/p&gt;
+
+&lt;h3 id=&quot;daniel-pérez---análisis-y-scouting&quot;&gt;Daniel Pérez - Análisis y Scouting&lt;/h3&gt;
+
+&lt;p&gt;Daniel Pérez, analista del CD Tacón, sobre análisis y scouting.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NVKmlX4xqE0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;david-aznar---modelo-de-juego&quot;&gt;David Aznar - Modelo de juego&lt;/h3&gt;
+
+&lt;p&gt;David Aznar, entrenador del CD Tacón con Ángel López del Delfín SC sobre modelo de juego.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/iWt2kndcgm4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;maría-pry-bea-parra-y-nati-gutiérrez---futboldesdecasa&quot;&gt;María Pry, Bea Parra y Nati Gutiérrez - #FutbolDesdeCasa&lt;/h3&gt;
+
+&lt;p&gt;María Pry (entrenadora del Levante UD), Bea Parra (jugadora del Betis) y Nati Gutiérrez (segunda entrenadora del Málaga).&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/R3pbTQhBxpQ&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;María Pry participó también en una charla con Luis Cembranos, actualmente entrenador del filial del Leganés.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3tdMdjZMBrM&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;maría-pry--los-retos-del-futbolista&quot;&gt;María Pry — Los retos del futbolista&lt;/h3&gt;
+
+&lt;p&gt;María Pry como invitada en un webinar sobre liderazgo, futbol, igualdad e inclusión.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YT8vLd_VN8Q&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;cristian-toro---entrevista-en-el-patio&quot;&gt;Cristian Toro - Entrevista en El Patio&lt;/h3&gt;
+
+&lt;p&gt;Entrevista a Cristian Toro, entrenador del Sevilla.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YT8vLd_VN8Q&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;óscar-gaspar---entrenamiento-de-porteros&quot;&gt;Óscar Gaspar - Entrenamiento de porteros&lt;/h3&gt;
+
+&lt;p&gt;Óscar Gaspar (entrenador de porteras del CD Tacón) con Jacobo Sanz  de Al-Qadsia SC.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/FYMigxpfBa0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;óscar-gaspar---perfil-técnico-táctico-de-las-porteraas-de-primera-iberdrola-vs-porteras-de-la-fa-womens-superleague&quot;&gt;Óscar Gaspar - Perfil técnico táctico de las porteraas de Primera Iberdrola vs Porteras de la FA Women’s Superleague&lt;/h3&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;PERFIL TEC-TAC🧤PRIMERA IBERDROLA VS FA SUPERLEAGUE 🧠💡&lt;br /&gt;En búsqueda de conocer las repercusiones de la cultura de juego del país en las demandas técnico-tácticas de la portera. Los datos son sólo datos sino hacemos una interpretación que los vincule con el desarrollo del juego⬇️ &lt;a href=&quot;https://t.co/Y897NtxHD8&quot;&gt;pic.twitter.com/Y897NtxHD8&lt;/a&gt;&lt;/p&gt;&amp;mdash; Gaspar (@oscargasparEDP) &lt;a href=&quot;https://twitter.com/oscargasparEDP/status/1263067009417383937?ref_src=twsrc%5Etfw&quot;&gt;May 20, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;óscar-suárez-gonzalo-arconada-y-eneritz-lizaso---microciclos&quot;&gt;Óscar Suárez, Gonzalo Arconada y Eneritz Lizaso - Microciclos&lt;/h3&gt;
+
+&lt;p&gt;Dos ponencias en las que se dan ejemplos de dos microciclos:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Óscar Suárez (ex-entrenador del Valencia C.F) explica la preparación y dinámica de su equipo ante &lt;a href=&quot;https://www.youtube.com/watch?v=YmLvvwTJyN4&quot;&gt;el partido contra el Athletic Club&lt;/a&gt; en Lezama de la temporada 2018/2019.&lt;/li&gt;
+  &lt;li&gt;Gonzalo Arconada con Eneritz Lizaso, ex-entrenador y analista de la Real Sociedad respectivamente: “De la competición al entrenamiento: análisis del día a día”.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7F71UjPrH1U&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;maría-pry---microciclo-de-entrenamiento-y-preguntas&quot;&gt;María Pry - Microciclo de entrenamiento y preguntas&lt;/h3&gt;
+
+&lt;p&gt;María Pry en conversación con Pepe Pla (Discóbolo La Torre AC) y Santi Triguero (Selecció Valenta sub17). En la ponencia, la entrenadora granota explica en detalle su microciclo de entrenamiento tipo y luego un ejemplo, con la preparación de la jornada 16 de Primera Iberdrola en su encuentro contra el Athletic Club.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/prUxn_HcAlY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;maría-pry---entrevista-con-la-rfaf&quot;&gt;María Pry - Entrevista con la RFAF&lt;/h3&gt;
+
+&lt;p&gt;«La entrenadora de la UD Levante Femenino compartió sus experiencias en los 11 años que lleva en los banquillos del fútbol femenino nacional.»&lt;/p&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-permalink=&quot;https://www.instagram.com/tv/CAx5nEeCbCR/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; data-instgrm-version=&quot;12&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:16px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/tv/CAx5nEeCbCR/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&quot; target=&quot;_blank&quot;&gt; &lt;div style=&quot; display: flex; flex-direction: row; align-items: center;&quot;&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 19% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display:block; height:50px; margin:0 auto 12px; width:50px;&quot;&gt;&lt;svg width=&quot;50px&quot; height=&quot;50px&quot; viewBox=&quot;0 0 60 60&quot; version=&quot;1.1&quot; xmlns=&quot;https://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;https://www.w3.org/1999/xlink&quot;&gt;&lt;g stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;g transform=&quot;translate(-511.000000, -20.000000)&quot; fill=&quot;#000000&quot;&gt;&lt;g&gt;&lt;path d=&quot;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&quot;padding-top: 8px;&quot;&gt; &lt;div style=&quot; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&quot;&gt; Ver esta publicación en Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 12.5% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&quot;&gt;&lt;div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: 8px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: auto;&quot;&gt; &lt;div style=&quot; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/tv/CAx5nEeCbCR/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_blank&quot;&gt;La entrenadora de la UD Levante Femenino compartió sus experiencias en los 11 años que lleva en los banquillos del fútbol femenino nacional.&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;Una publicación compartida de &lt;a href=&quot;https://www.instagram.com/rfaf/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;&quot; target=&quot;_blank&quot;&gt; RFAF&lt;/a&gt; (@rfaf) el &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2020-05-29T17:12:24+00:00&quot;&gt;29 May, 2020 a las 10:12 PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;josé-luis-sánchez-vera---sistema-de-juego-de-fútbol-femenino&quot;&gt;José Luis Sánchez Vera - Sistema de juego de fútbol femenino&lt;/h3&gt;
+
+&lt;p&gt;El ex-entrenador del Atlético de Madrid habla del sistema de juego en el fútbol femenino y algunas estrategias, dentro del ciclo de conferencias “Estructura, actualidad y desarrollo en las diferentes áreas del fútbol femenino”.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hpQCQtGBAG0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;josé-luis-sánchez-vera---microciclo-del-atm-20182019&quot;&gt;José Luis Sánchez Vera - Microciclo del ATM 2018/2019&lt;/h3&gt;
+
+&lt;p&gt;Otro ejemplo de semana de trabajo en la élite del fútbol femenino español.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4NcK9pZgtuA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/bz2SwZCaYJ8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/HQm9CdYCDSE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;josé-luis-sánchez-vera---entrevista&quot;&gt;José Luis Sánchez Vera - Entrevista&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/j1WgwLNCFl8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;óscar-fernández---panel-retos-y-oportunidades-de-ser-dt-de-un-equipo-femenino&quot;&gt;Óscar Fernández - Panel: Retos y oportunidades de ser DT de un equipo femenino&lt;/h3&gt;
+
+&lt;p&gt;Modera: Ivonne Valdivia
+Participan: Oscar Fernández (entrenador del Madrid CFF) , Vanessa Martínez, Gloria Rangel, Juan Carlos Mendoza&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xcRpyLLMtrY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;carlos-santiso---entrevistas&quot;&gt;Carlos Santiso - Entrevistas&lt;/h3&gt;
+
+&lt;p&gt;Carlos Santiso es el entrenador del Rayo Vallecano Femenino. Podéis escuchar su entrevista con Gol and Pop &lt;a href=&quot;https://golandpop.com/index.php/2020/04/05/para-el-entrenador-del-rayo-femenino-lo-que-importa-es-la-actitud/&quot;&gt;aquí&lt;/a&gt; y su entrevista en Detrás de la Cancha &lt;a href=&quot;https://anchor.fm/detrasdecancha/episodes/Entrevista-al-DT-del-Rayo-Vallecano-femenino--Carlos-Santiso--DETRS-DE-CANCHA--29-ABR-eddp3u&quot;&gt;aquí&lt;/a&gt;. También podéis escuchar su entrevista con Unión Rayo:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/gWvhIw8uPqs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;raúl-molina---entrevista-en-futboleras-y-consejos-para-un-buen-feedback-como-analista-de-fútbol&quot;&gt;Raúl Molina - Entrevista en Futboleras y Consejos para un buen feedback como analista de fútbol&lt;/h3&gt;
+
+&lt;p&gt;Raúl Molina es analista del Rayo Vallecano Femenino. Podéis leer su entrevista en Futboleras &lt;a href=&quot;https://www.futboleras.es/noticia/raul-molina--tenemos-que-ser-los-ojos-extras-del-entrenador-ref47.html&quot;&gt;aquí&lt;/a&gt; y su artículo para Objetivo Analista sobre cómo dar feedback &lt;a href=&quot;https://objetivoanalista.com/consejos-para-un-buen-feedback-como-analista-de-futbol/&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;blanca-crespo---infografía-de-lesiones-de-la-temporada-2019-2020-e-informes-individuales-del-rayo-vallecano-femenino&quot;&gt;Blanca Crespo - Infografía de lesiones de la temporada 2019-2020 e informes individuales del Rayo Vallecano Femenino&lt;/h3&gt;
+
+&lt;p&gt;Blanca Crespo Rodríguez-Miñón es fisioterapeuta y readaptadora en el Rayo Vallecano Femenino (además de ex-jugadora). Blanca también ha estado subiendo diferentes entrenamientos que hacer en casa durante la cuarentena, podéis &lt;a href=&quot;https://www.youtube.com/channel/UCt9DHp1JoddYhHr0LDg1eMw/videos&quot;&gt;verlos aquí&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Infografía de lesiones de la temporada 2019-2020 e informes individuales de cada jugadora.&lt;br /&gt;Obteniendo esta información podremos mejorar la próxima temporada a nivel individual para intentar prevenir lesiones.&lt;a href=&quot;https://twitter.com/hashtag/equipomultidisciplinar?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#equipomultidisciplinar&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/individualizaci%C3%B3n?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#individualización&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/FutbolFemenino?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#FutbolFemenino&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/prevenci%C3%B3n?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#prevención&lt;/a&gt; &lt;a href=&quot;https://t.co/c8tRBpaG07&quot;&gt;pic.twitter.com/c8tRBpaG07&lt;/a&gt;&lt;/p&gt;&amp;mdash; BLANCA CR3SP⚽️ RGZ.-MIÑON (@whitecr3spito) &lt;a href=&quot;https://twitter.com/whitecr3spito/status/1260290659933716480?ref_src=twsrc%5Etfw&quot;&gt;May 12, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;irene-ferreras---entrevista-en-el-patio&quot;&gt;Irene Ferreras - Entrevista en El Patio&lt;/h3&gt;
+
+&lt;p&gt;Entrevista a Irene Ferreras, ex-entrenadora del Valencia y el Rayo Vallecano.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/bTRSONDnigc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;contacto-con-los-ponentes&quot;&gt;Contacto con los ponentes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;María Pry: &lt;a href=&quot;https://twitter.com/MariaPry8&quot;&gt;@MariaPry8&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Manuel Sánchez: &lt;a href=&quot;https://twitter.com/ManuSanchez04&quot;&gt;@ManuSanchez04&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Toña Is: &lt;a href=&quot;https://twitter.com/is_tona&quot;&gt;@is_tona&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;David Aznar: &lt;a href=&quot;https://twitter.com/daznar1980&quot;&gt;@daznar1980&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Gonzalo Arconada: &lt;a href=&quot;https://www.linkedin.com/in/gonzaloarconadafootballcoach/&quot;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Cristian Toro: &lt;a href=&quot;https://twitter.com/cristiantorodt&quot;&gt;@CristianToroDT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Óscar Fernández: &lt;a href=&quot;https://twitter.com/OscarFerno&quot;&gt;@OscarFerno&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Carlos Santiso: &lt;a href=&quot;https://twitter.com/c_santiso3&quot;&gt;@c_santiso3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Irene Ferreras: &lt;a href=&quot;https://twitter.com/1ren3_f&quot;&gt;@1REN3_F&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;José Luis Sánchez Vera: &lt;a href=&quot;https://twitter.com/jlsanchezvera&quot;&gt;@jlsanchezvera&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sara Monforte: &lt;a href=&quot;https://twitter.com/Monforte11&quot;&gt;@Monforte11&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Montse Tomé: &lt;a href=&quot;https://twitter.com/montse_tome&quot;&gt;@montse_tome&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kenio Gonzalo: &lt;a href=&quot;https://twitter.com/keniogonzalo&quot;&gt;@keniogonzalo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Daniel Pérez: &lt;a href=&quot;https://twitter.com/ObjetivoAnalist&quot;&gt;@ObjetivoAnalist&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Nati Gutiérrrez: &lt;a href=&quot;https://twitter.com/NnattiGutierrez&quot;&gt;@NnattiGutierrez&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Óscar Suárez: &lt;a href=&quot;http://twitter.com/oscarmistral&quot;&gt;@oscarmistral&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Eneritz Lizaso: &lt;a href=&quot;https://www.linkedin.com/in/eneritz-lizaso-alcibar-45900711a/&quot;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Óscar Gaspar: &lt;a href=&quot;https://twitter.com/oscargasparEDP&quot;&gt;@oscargasparEDP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Raúl Molina: &lt;a href=&quot;https://twitter.com/raul_molina80&quot;&gt;@raul_molina80&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Blanca Crespo: &lt;a href=&quot;https://twitter.com/whitecr3spito&quot;&gt;@whitecr3spito&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mis diferentes casas</title>
+   <link href="https://rbarbadillo.github.io/2020/04/29/mis-diferentes-casas/"/>
+   <updated>2020-04-29T00:00:00+02:00</updated>
+   <id>https://rbarbadillo.github.io/2020/04/29/mis-diferentes-casas</id>
+   <content type="html">&lt;p&gt;Nací y crecí en un pueblo colindante a la municipalidad de Santander llamado Santa Cruz de Bezana. Aquí en verano todo es muy idílico y, como con todo lo maravilloso, no te das cuenta. Puedes darte un paseo (largo) hasta la playa o coger el coche y darte un chapuzón todos los días después del trabajo. Tomarte una caña con tus amigos en El Río de la Pila (ay, el Cientocero), irte a la Bahía para tomar la última a las 5 de la mañana… Pasé así mis años universitarios, que no los cambiaría por nada del mundo. Otro ritmo de vida.&lt;/p&gt;
+
+&lt;p&gt;Cuando terminé el grado, tenía ganas de comerme el mundo. Había pasado 6 meses en Estados Unidos en una universidad increíble y tenía mucha hambre de hacer cosas. Como todo veinteañero que se precie en Cantabria, me mudé a Madrid. Se dice siempre y yo tampoco me canso de repetirlo: a la semana estaba en casa. Me gustaba el bullicio de la gran ciudad y la efervescencia. Tras dos años allí, terminé las asignaturas del máster que estaba haciendo y estaba harta de estudiar en el sistema universitario. Quería salir y trabajar. En 2018, un poco por casualidad, dejé Madrid por primera vez.&lt;/p&gt;
+
+&lt;p&gt;Ese verano, exactamente el día que cumplía 24 años, empecé a trabajar en Luxemburgo para Amazon. Laboralmente fue increíble (no he aprendido tanto en tan poco tiempo nunca) pero quiero centrarme en la experiencia de vivir allí. El país de Luxemburgo tiene una extensión parecida a la de Cantabria y la ciudad tiene algo menos de 120.000 habitantes. Como referencia la población estaría entre León y Cádiz. Santander tiene más de 170.000. El músculo económico de Luxemburgo es increíble, la mayoría de gente que trabaja allí no vive en el país y son trabajos de muy alto valor añadido. La gente era amable, pero la verdad es que no llegué a sentir la ciudad como mía. Tenía la sensación de que la vida en la ciudad se apagaba cuando salía del trabajo, así que trabajaba, volvía a casa y pasaba los fines de semana viajando. Sin duda una vida privilegiada, pero que se puede hacer desde cualquier otro punto del mapa europeo. Tuve mucha culpa de no hacer de ese país y cultura mi casa; echaba mucho de menos España y &lt;em&gt;the Spanish way of life&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;En 2019 quise dar un giro a mi vida y decidí aprender a programar en serio. Volví a &lt;em&gt;casa padres&lt;/em&gt; unos meses, estudié e hice mi Trabajo de Fin de Máster utilizando desarrollo de aplicaciones web. Estaba en Santander otra vez pero sabía que quería volver a Madrid. Después de presentar el proyecto, conseguí un trabajo de desarrolladora en la capital y allí fui. Esta vez, no tardé ni una semana en sentirme en casa: nunca había dejado de serlo. Desde entonces, he hecho mi vida allí: he cononocido a geniales compañeros de trabajo y aún mejores (si cabe) compañeros de piso, siempre estaban mis amigos de toda la vida, comencé una nueva aventura escribiendo sobre fútbol femenino… Vamos, un hogar.&lt;/p&gt;
+
+&lt;p&gt;Todos sabemos lo que ha pasado en estas últimas semanas. El 10 de marzo me fui de Madrid, volví a Cantabria y pasé 15 días de confinamiento total en casa de mi hermana para evitar posibles contagios con mis padres y abuela, ya mayores. Después de ese tiempo, he vuelto una vez más a &lt;em&gt;casa padres&lt;/em&gt;. Hace dos semanas nos comunicaron desde mi empresa que, a efectos prácticos, no volveríamos a trabajar allí. Yo ya estaba buscando trabajo y estoy muy contenta de haber encontrado futuro en la ciudad de Pamplona. El trabajo y empresa que me llevan allí son geniales y tengo muchas ganas de empezar en ese proyecto, pero quiero utilizar este texto como oda y despedida a mi yo madrileño.&lt;/p&gt;
+
+&lt;p&gt;En marzo me fui de Madrid por segunda vez y no lo sabía. Dejo allí todo lo que he mencionado antes que supone un pedazo grande de mi corazón. No sé si nos volveremos a reunir y estoy segura de que Pamplona será también amable conmigo, pero siempre tendré algo de &lt;em&gt;saudade&lt;/em&gt; de la gran ciudad.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Comentarios sobre Cuellilargo y su crítica al capitalismo</title>
+   <link href="https://rbarbadillo.github.io/2019/07/16/comentarios-cuellilargo-critica-capitalismo/"/>
+   <updated>2019-07-16T00:00:00+02:00</updated>
+   <id>https://rbarbadillo.github.io/2019/07/16/comentarios-cuellilargo-critica-capitalismo</id>
+   <content type="html">&lt;p&gt;En abril el &lt;em&gt;youtuber&lt;/em&gt; Pol Andinach (&lt;em&gt;Cuellilargo&lt;/em&gt;) subió &lt;a href=&quot;https://www.youtube.com/watch?v=0AUUG11OP_Y&quot;&gt;este vídeo&lt;/a&gt; en el que intenta probar que el capitalismo no es ‘el mejor sistema posible’ (sic).&lt;/p&gt;
+
+&lt;p&gt;Tanto él, como yo y la gran mayoría de la población, queremos mejorar no solo nuestra existencia, sino también la de el resto del mundo, muy especialmente la de aquellos más desfavorecidos. Las diferencias pueden radicar en qué pensamos que es lo más efectivo.&lt;/p&gt;
+
+&lt;p&gt;Quiero dejar claro que este artículo no es una crítica a los datos que él utiliza, ni siquiera a la tesis a la que parece llegar (el mundo mejora, pero debería hacerlo más rápido) puesto que estoy de acuerdo. Sí quiero tomar algunos de sus datos, añadir otros y darles otra interpretación, que considero más justa. Es por esto por lo que el texto está titulado ‘comentarios’ y no ‘crítica’.&lt;/p&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#introducción&quot; id=&quot;markdown-toc-introducción&quot;&gt;Introducción&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#la-lenta-reducción-de-la-pobreza&quot; id=&quot;markdown-toc-la-lenta-reducción-de-la-pobreza&quot;&gt;La lenta reducción de la pobreza&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#los-datos-hasta-1981-no-son-fiables&quot; id=&quot;markdown-toc-los-datos-hasta-1981-no-son-fiables&quot;&gt;Los datos hasta 1981 no son fiables&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#el-umbral-de-la-pobreza-extrema-observado-en-el-gráfico-es-demasiado-bajo&quot; id=&quot;markdown-toc-el-umbral-de-la-pobreza-extrema-observado-en-el-gráfico-es-demasiado-bajo&quot;&gt;El umbral de la pobreza extrema observado en el gráfico es demasiado bajo&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#los-números-absolutos-no-mejoran-tanto&quot; id=&quot;markdown-toc-los-números-absolutos-no-mejoran-tanto&quot;&gt;Los números absolutos no mejoran (tanto)&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#consumo-de-los-recursos-naturales-dados&quot; id=&quot;markdown-toc-consumo-de-los-recursos-naturales-dados&quot;&gt;Consumo de los recursos naturales dados&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#se-necesita-un-gran-incremento-del-pib-mundial-para-aumentar-el-nivel-de-vida-de-los-más-desfavorecidos&quot; id=&quot;markdown-toc-se-necesita-un-gran-incremento-del-pib-mundial-para-aumentar-el-nivel-de-vida-de-los-más-desfavorecidos&quot;&gt;Se necesita un gran incremento del PIB mundial para aumentar el nivel de vida de los más desfavorecidos&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#los-límites-físicos-del-planeta-nos-impiden-no-solo-crecer-si-no-mantener-la-producción&quot; id=&quot;markdown-toc-los-límites-físicos-del-planeta-nos-impiden-no-solo-crecer-si-no-mantener-la-producción&quot;&gt;Los límites físicos del planeta nos impiden no solo crecer si no mantener la producción&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#las-emisiones-de-co2-se-disparan-con-la-industrialización&quot; id=&quot;markdown-toc-las-emisiones-de-co2-se-disparan-con-la-industrialización&quot;&gt;Las emisiones de CO2 se disparan con la industrialización&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#la-desigualdad&quot; id=&quot;markdown-toc-la-desigualdad&quot;&gt;La desigualdad&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#conclusión&quot; id=&quot;markdown-toc-conclusión&quot;&gt;Conclusión&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#más-datos-sobre-tendencias-mundiales-en-las-últimas-décadas&quot; id=&quot;markdown-toc-más-datos-sobre-tendencias-mundiales-en-las-últimas-décadas&quot;&gt;Más datos sobre tendencias mundiales en las últimas décadas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;introducción&quot;&gt;Introducción&lt;/h2&gt;
+
+&lt;p&gt;Desde una &lt;strong&gt;perspectiva lógica&lt;/strong&gt; se insiste en que el capitalismo es un mal sistema, pero no se ofrece ninguna otra posibilidad a éste. Es decir, aunque el capitalismo sea extremadamente horrible, la clave es &lt;em&gt;respecto a qué&lt;/em&gt; ya que se intenta probar que &lt;em&gt;no es el mejor&lt;/em&gt;. Si no es el mejor: ¿es el peor de todos?, ¿es igual a otros? No lo sabemos, no se nos dan otras opciones, se compara con la nada.&lt;/p&gt;
+
+&lt;p&gt;Esto nos lleva a una cuestión muchísimo más profunda como es cuáles son las alternativas más allá del capitalismo, sobre lo cual han corrido, corren y correrán ríos de tinta. No pretendo revolucionar la economía en estas líneas. Mi muy humilde opinión es que, siendo la economía la distribución de los recursos escasos, existen dos extremos -la planificación total o socialismo y el &lt;em&gt;laissez faire&lt;/em&gt; completo- entre los que nos podemos mover, pero no salir. O planificas o no planificas, pero no hay una tercera opción. Con esto pretendo también dejar definido qué entiendo yo como capitalismo (algo nada trivial, que creo que Pol debería haber hecho, ya que nos dedicamos a debatir sobre ello): “sistema económico que añade al libre mercado la producción y acumulación continuada de bienes de capital”. De aquí se deduce que puede haber libre mercado sin capitalismo (por ejemplo, las comunas voluntarias &lt;a href=&quot;https://es.wikipedia.org/wiki/Kibutz&quot;&gt;kibutz&lt;/a&gt;), sin embargo, están generalmente aceptados como sinónimos ya que se puede considerar el capitalismo como la forma más sofisticada de libre mercado.&lt;/p&gt;
+
+&lt;p&gt;Intentando dejar el error lógico a un al lado, sus críticas se desarrollan en torno a tres puntos, a saber: la lenta reducción de la pobreza, el consumo insostenible de los recursos naturales dados y la desigualdad.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-lenta-reducción-de-la-pobreza&quot;&gt;La lenta reducción de la pobreza&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*6qTRM_ehgGHUA1enDVOFfA.png&quot; alt=&quot;Gráfico de reducción de pobreza 1820-2015&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*GugjgAKr9BRPU_X1GbSxmQ.png&quot; alt=&quot;Fuente de datos del gráfico&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;los-datos-hasta-1981-no-son-fiables&quot;&gt;Los datos hasta 1981 no son fiables&lt;/h3&gt;
+
+&lt;p&gt;Sobre las dudas de los datos del &lt;a href=&quot;http://piketty.pse.ens.fr/files/BourguignonMorrisson2002.pdf&quot;&gt;estudio de Bourguignon y Morrison&lt;/a&gt; (los que se usan en el gráfico de pobreza hasta 1981), no tengo mucho que añadir salvo que yo creo que los datos de pobreza, en general, se estiman tal y como lo hacen ellos. De hecho, que se hagan a partir de estimaciones de la desigualdad, que él mismo admite que se desarrolla peor que la pobreza, hace pensar que quizá serán estimaciones bastante conservadoras. No soy ni muchísimo menos una experta en el tema, así que ni puedo ni voy a defenderlo.&lt;/p&gt;
+
+&lt;p&gt;Utilizaré los datos únicamente desde 1981 y, en las ocasiones en las que no, recordaré esta discrepancia para que el lector decida con su criterio.&lt;/p&gt;
+
+&lt;p&gt;Por otro lado, no hace falta irse a la web de «Our World in Data» para saber los orígenes de los datos, en el pie del gráfico se citan claramente las dos fuentes utilizadas, no parece que intente ser engañoso (puede ver la imagen original al final de este artículo).&lt;/p&gt;
+
+&lt;h3 id=&quot;el-umbral-de-la-pobreza-extrema-observado-en-el-gráfico-es-demasiado-bajo&quot;&gt;El umbral de la pobreza extrema observado en el gráfico es demasiado bajo&lt;/h3&gt;
+
+&lt;p&gt;La enmienda más contundente a este punto se la hace él mismo: todos los tramos de renta están mejorando.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*L2QFDotXr1Jc8u99uxoa4A.png&quot; alt=&quot;Línea de pobreza por persona por día en 2011 PPP&quot; /&gt;
+Gráfico de &lt;a href=&quot;https://twitter.com/fhgferreira/status/1103743820083138560&quot;&gt;Francisco Ferreira&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/BrankoMilan/status/1103451056934174720&quot;&gt;citado por Branko Milanovic&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Entiendo que, desde una perspectiva occidental actual, el umbral de la pobreza de 1.90$ diarios parezca inmoral. Cualquiera entiende que vivir con ingresos de 57$ mensuales no es digno, ni 150$. Pero es importante ver la diferencia real que a una persona le supone pasar de vivir con 1$ al día a 2$, de 2$ a 4$, etc. Para nosotros, desde los rascacielos que han construido nuestros bisabuelos, abuelos y padres, es como mirar tejados de casas bajísimas: no somos capaces de ver los contrastes. Estas fotos representan los diferentes modos de vida en cuatro niveles de ingresos diarios -menos de 2$, menos de 8$, menos de 32$, y más de 32$-:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1200/1*3gJx3iepBk05kGdTxC2aEA.png&quot; alt=&quot;La vida en los cuatro niveles de ingresos&quot; /&gt;
+&lt;em&gt;Life on the four income levels&lt;/em&gt; (&lt;em&gt;Factfulness&lt;/em&gt; de Hans Rosling)&lt;/p&gt;
+
+&lt;p&gt;En el mismo libro, podemos leer una descripción general de la vida de alguien del nivel 1, en el que actualmente se encuentran alrededor de mil millones de personas:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Tienes 1$ al día. Tus 5 hijos tienen que pasarse horas andando descalzos con el único cubo de plástico que tenéis, yendo y viniendo, para recoger agua de un sucio pozo que está a una hora de distancia. En su camino a casa cogen leña, y tú preparas las mismas gachas grises que coméis en cada comida, cada día, durante toda tu vida (excepto los meses que el precario suelo no da cosecha y os vais a la cama hambrientos). Un día tu hija más pequeña desarrolla un catarro grave. El humo del fuego de leña le debilita los pulmones. No puedes permitirte antibióticos, y un mes después fallece. Esto es extrema pobreza. Sin embargo, sigues luchando. Si tienes suerte y la cosecha es buena, quizá puedas vender algo de excedente y ganar más de 2$ al día.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;La vida de alguien del nivel 2, alrededor de 3 mil millones de personas viven así:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Lo has conseguido. De hecho, has cuadruplicado tus ingresos y ahora ganas 4$ al día. 3 dólares extra cada día. ¿Qué vas a hacer con este dinero? Ahora puedes comprar comida, y puedes comprar pollos, lo que significa tener huevos. Puedes ahorrar algo de dinero, comprar sandalias para tus hijos, una bicicleta y más cubos de plástico. Ahora sólo te lleva media hora conseguir el agua diaria. Compras una estufa de gas y tus hijos pueden ir a la escuela en vez de recoger leña. Cuando hay electricidad hacen sus deberes debajo de una bombilla. Pero el suministro es demasiado inestable para tener un frigorífico. Ahorras para comprar colchones y no dormir en el suelo de barro. La vida es mucho mejor ahora, pero sigue siendo incierta. Una sola enfermedad te hará vender casi todas tus posesiones para comprar medicinas. Eso te haría pasar otra vez el nivel 1. Otros 3 dólares más al día te vendrían bien, pero para realmente experimentar una mejora drástica necesitarías cuadruplicar tus ingresos otra vez. Si pudieses conseguir un trabajo en la industria textil local serás el primer miembro de tu familia en traer un sueldo a casa.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;La distribución de población en 1980 según estos niveles:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*cBJKCKc-CUyugvbINPUOiA.png&quot; alt=&quot;Distrbución de la población mundial en 1980 según niveles de ingresos&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Los colores representan los diferentes continentes: Asia rosa, África azul, América verde y Europa amarillo. En el eje horizontal están los diferentes niveles de ingreso de menor a mayor. La distribución de gente en 2018 según los mismos niveles:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*6ApUiR8pFT7VftnF-VuhEw.png&quot; alt=&quot;Distrbución de la población mundial en 2018 según niveles de ingresos&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Puede encontrar &lt;a href=&quot;https://www.gapminder.org/tools/#$chart-type=mountain&quot;&gt;este gráfico interactivo&lt;/a&gt; en la web de Gapminder. La renuncia china al sistema económico socialista (que no al sistema político comunista), ha influido muchísimo en este gráfico, pero &lt;a href=&quot;https://twitter.com/UN_JWFOWLER/status/1105472825677266944&quot;&gt;no es el único país prosperando.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Evidentemente, hay que hacer todo lo posible para que esos 4$ pasen lo más rápido posible a 8, y esos 8 a 32. Con la máxima urgencia. En eso hay un gran consenso mundial, que preocupa incluso a los defensores del capitalismo que ‘siempre tienen un gráfico a mano’, aunque parezca increíble que no sean grandes villanos.&lt;/p&gt;
+
+&lt;p&gt;Deberíamos plantearnos si quizá sonamos un poco como sonaría Ana Patricia Botín diciendo que, realmente, pasar de tener 600€ a 1,200€ al mes no es una gran mejora. 1,200€ mensuales si tienes hijos y vives en Madrid, por ejemplo, es un sueldo ínfimo que es vital que se mejore y hay que luchar porque esa gente llegue a rentas más altas, pero no creo que restar importancia a su progreso sea correcto.&lt;/p&gt;
+
+&lt;h3 id=&quot;los-números-absolutos-no-mejoran-tanto&quot;&gt;Los números absolutos no mejoran (tanto)&lt;/h3&gt;
+
+&lt;p&gt;El gráfico de números absolutos real, que él muestra sin cambiar el límite superior, es el que se muestra a continuación. Recuerde la duda de fiabilidad de los datos hasta 1981.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*nxue3m1c6wwUoS7syWu_BA.png&quot; alt=&quot;Población mundial viviendo en extrema pobreza&quot; /&gt;
+Población mundial viviendo en extrema pobreza. (&lt;a href=&quot;https://ourworldindata.org/grapher/world-population-in-extreme-poverty-absolute&quot;&gt;Our World in Data&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Si lo queremos ver con distintos umbrales de pobreza:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*QIpIddwgOopdS60pgc6dQA.png&quot; alt=&quot;Distribución de la población entre diferentes umbrales de la pobreza&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Distribución de la población entre diferentes umbrales de la pobreza. (&lt;a href=&quot;https://ourworldindata.org/grapher/distribution-of-population-poverty-thresholds&quot;&gt;Our World in Data&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;En 1981 había 1.9 mil millones de personas viviendo en extrema pobreza, en 2015 eran 731 millones. El resto de los niveles del gráfico han aumentado en términos absolutos (en &lt;a href=&quot;https://ourworldindata.org/grapher/distribution-of-population-poverty-thresholds?stackMode=relative&quot;&gt;términos relativos&lt;/a&gt; no). Los tres niveles más superiores han aumentado más o menos en mil millones de personas, el de 1.9–3.2$ en 500 millones.&lt;/p&gt;
+
+&lt;p&gt;Son cifras que, como ya he repetido y repetiré hasta la saciedad, deben mejorarse. La gran cuestión es ¿cómo?&lt;/p&gt;
+
+&lt;p&gt;Encuentro estos puntos innegables:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Se consigue mejora, para todo el mundo y especialmente para los más pobres.&lt;/li&gt;
+  &lt;li&gt;Esta mejora ha sido más rápida en los últimos años.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;consumo-de-los-recursos-naturales-dados&quot;&gt;Consumo de los recursos naturales dados&lt;/h2&gt;
+
+&lt;h3 id=&quot;se-necesita-un-gran-incremento-del-pib-mundial-para-aumentar-el-nivel-de-vida-de-los-más-desfavorecidos&quot;&gt;Se necesita un gran incremento del PIB mundial para aumentar el nivel de vida de los más desfavorecidos&lt;/h3&gt;
+
+&lt;p&gt;Es cierto. Del dato de que es 15 veces el actual no tengo fuente, pero no me parece descabellado. La cuestión es ¿por qué no va a ser posible?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*RG2k_mfl6PflykDLE3bo9Q.png&quot; alt=&quot;PIB mundial en los últimos 2000 años&quot; /&gt;
+PIB mundial en los últimos 2000 años. (&lt;a href=&quot;https://ourworldindata.org/economic-growth&quot;&gt;Our World in Data&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;El último punto de esta serie, en 2015, contabiliza el PIB en 108.12 billones. Es decir, necesitaríamos un crecimiento económico más o menos equivalente al ya tenido desde 1940, cuando el PIB mundial se contabilizaba en 7,810 millones. Si el desarrollo tecnológico y de comercio se mantiene como actualmente, ¿qué impide este crecimiento?&lt;/p&gt;
+
+&lt;p&gt;Se suele argumentar que estamos llegando a los límites físicos del planeta y que, de paso, nos lo estamos cargando en términos ecológicos. Esto lo trataremos en los puntos 2.2 y 2.3.&lt;/p&gt;
+
+&lt;h3 id=&quot;los-límites-físicos-del-planeta-nos-impiden-no-solo-crecer-si-no-mantener-la-producción&quot;&gt;Los límites físicos del planeta nos impiden no solo crecer si no mantener la producción&lt;/h3&gt;
+
+&lt;p&gt;Los ‘límites físicos’ del planeta cambian. Esto es difícil de entender porque es contraintuitivo, pero una vez comprendido es sencillo.&lt;/p&gt;
+
+&lt;p&gt;En el año 0 había muchísimas más reservas de combustibles fósiles que actualmente. Sin embargo, los ‘límites físicos’ del planeta -tal y como los llama Pol- eran mucho menores en cuanto a producción de energía, pues el aprovechamiento por cada unidad de combustible fósil era infinitamente menor al de ahora. ¿Cuánta gente se imaginaba en esos momentos que llegaría a haber máquinas a vapor y refinerías de petróleo? Apostaría que nadie cuerdo.&lt;/p&gt;
+
+&lt;p&gt;En el año 0 tenían una eficiencia en el aprovechamiento de la energía solar infinitamente menor a la actual. La utilizaban para realizar evaporaciones y obtener sal, por ejemplo, pero su eficiencia en convertirla en electricidad y luego en energía mecánica para su carro era del 0%. Actualmente, las versiones comerciales más eficientes &lt;a href=&quot;https://news.energysage.com/what-are-the-most-efficient-solar-panels-on-the-market/&quot;&gt;rondan el 21%&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Con todo esto quiero decir que dos cosas pueden ser ciertas al mismo tiempo: si medimos los ‘límites físicos’ del mundo con los modos de explotación actuales, no es ni sostenible ni posible el crecimiento y la gran noticia para nosotros es que la tecnología e innovación hacen que estos ‘límites físicos’ aumenten de manera increíble.&lt;/p&gt;
+
+&lt;h3 id=&quot;las-emisiones-de-co2-se-disparan-con-la-industrialización&quot;&gt;Las emisiones de CO2 se disparan con la industrialización&lt;/h3&gt;
+
+&lt;p&gt;Para crecer económicamente y salir de la pobreza, cualquier sociedad necesita disponer de más energía, no es un problema capitalista. El sistema soviético de planificación económica total &lt;a href=&quot;https://journals.sagepub.com/doi/abs/10.1177/107049659500400105&quot;&gt;no hizo mejor uso&lt;/a&gt; de sus recursos. Aunque es cierto que fueron pioneros en la promulgación de ciertas leyes de protección medioambiental muy por delante del resto de occidente, dicha regulación cayó en saco roto. En parte porque era poco realista y en parte porque no tenían los recursos técnicos y económicos para ponerla en práctica.&lt;/p&gt;
+
+&lt;p&gt;Las economías cada vez son menos &lt;em&gt;intensas&lt;/em&gt; en emisiones de CO2. Esto quiere decir que para crecer económicamente cada vez se emite menos dióxido de carbono: menos kilogramos de CO2 por cada dólar de PIB.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*82ItNckHIfRQzBpNcpxh5w.png&quot; alt=&quot;Intensidad (kg CO2/$ de PIB) de emisiones global&quot; /&gt;
+Intensidad (kg CO2/$ de PIB) de emisiones global. (&lt;a href=&quot;https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions&quot;&gt;Our World in Data&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Un gráfico que a primera vista da más miedo y tampoco querría esconder es el que muestra los datos de emisiones de CO2 per capita.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*4ghqUAtTBBWLIXL06QuLuw.png&quot; alt=&quot;Emisiones de CO2 (t) per capita desde 1790 a 2016&quot; /&gt;
+Emisiones de CO2 (t) per capita desde 1790 a 2016. (&lt;a href=&quot;https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions&quot;&gt;Our World in Data&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Sin embargo, analizándolo un poco más detenidamente encontramos varios datos que nos llevan al optimismo. Cuando Estados Unidos tenía el mismo PIB per capita que China (1976) emitía 20 toneladas por ciudadano, China actualmente emite 7.36.&lt;/p&gt;
+
+&lt;p&gt;La gran cuestión aquí es que muy probablemente estemos ante un sistema -el climático- que puede tener un límite de contaminación que no se debe sobrepasar y estas mejoras no sean lo suficientemente rápidas para que no se sobrepase (si no se ha hecho ya). Esta cuestión medioambiental, como ya he mencionado antes, no veo de qué forma guarda relación con el sistema económico que esté vigente, ya que todos los existentes han tenido que incrementar su huella medioambiental para incrementar también la producción, y por ende el nivel de vida de sus usuarios. De hecho, se podría decir que las mejoras en intensidad de CO2 de los últimos años son la anomalía, y eso se ha dado bajo un sistema económico más cercano al capitalismo que al socialismo.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-desigualdad&quot;&gt;La desigualdad&lt;/h2&gt;
+
+&lt;p&gt;El argumento aquí es único: hay una gran desigualdad global, producimos lo necesario para que nadie viva en pobreza, pero la distribución de los recursos es pésima y eso condena a la mayor parte de la población a una pobreza relativa.&lt;/p&gt;
+
+&lt;p&gt;Primero, habría que plantearse cuál es el problema real de la desigualdad. Creo que la gran mayoría estará de acuerdo en que radica en las malas condiciones de los “de abajo”, es decir, su &lt;strong&gt;pobreza&lt;/strong&gt;. No molesta la riqueza de unos -salvo a los envidiosos-, si no la desgracia de otros.&lt;/p&gt;
+
+&lt;p&gt;Recuerdo que hemos pasado de una renta per cápita mundial de 1.130 dólares anuales (en 1820) a una de 12.400 (en 2010), todo ello mientras la población global aumentaba desde los 1.050 millones de personas hasta rebasar los 7.000. La economía no es un juego por el cual que gane uno hace que pierda el otro y la riqueza de la que disponemos no viene dada ni es constante.&lt;/p&gt;
+
+&lt;p&gt;Aunque sea esto verdad, todos queremos que esa mejora sea lo más rápida posible y una repartición de la riqueza actual es una de las primeras opciones que se nos ocurren para hacerlo.&lt;/p&gt;
+
+&lt;p&gt;Durante 200 años la distribución de ingresos ha aumentado su desigualdad, pero en la última década esta tendencia se ha revertido: la desigualdad ha empezado a descender.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*5n_7rSZfkC5RhpenXMrQgA.png&quot; alt=&quot;Distribución de ingresos global en 2003, 2013 y proyección para 2035&quot; /&gt;
+Distribución de ingresos global en 2003, 2013 y proyección para 2035 (&lt;a href=&quot;https://ourworldindata.org/global-economic-inequality#global-income-inequality-increased-for-2-centuries-and-is-now-falling&quot;&gt;Our World in Data&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Estamos entonces en camino de utilizar este otro recurso para mejorar las condiciones de vida materiales de los más desfavorecidos.&lt;/p&gt;
+
+&lt;p&gt;Además, es digno de destacar que, aunque haya un ‘top 1%’ este es un grupo muy dinámico. Es decir, las personas en ese 1% no son las mismas ahora que las que fueron en 1980. &lt;a href=&quot;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0116370&quot;&gt;El 77% de sus componentes&lt;/a&gt; consigue mantenerse en el llamado ‘top 1%’ alrededor de un año de su vida.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*sRuB_R0XV9-OGaRVIz_sAQ.png&quot; alt=&quot;Tiempo de permanencia en el top 1% de la riqueza&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Por ejemplo, si tomamos la lista Forbes de las 400 personas más ricas del mundo, en 1982 el 56% habían venido de familias ricas, mientras que en 2012 este número había caído hasta el 30%. &lt;a href=&quot;https://www.mpifg.de/pu/mpifg_dp/dp15-8.pdf&quot;&gt;La movilidad de los más ricos también crece&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusión&quot;&gt;Conclusión&lt;/h2&gt;
+
+&lt;p&gt;Para finalizar, me gustaría que el lector se fijase también en el resto de los gráficos que aparecen en la infografía con la que empieza el vídeo de Pol. No se mejora únicamente en términos económicos.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*809t1KfPTKVN5GJbh4TiEg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para concluir querría invitar a la crítica de todo el que lea esto, pues me gustaría salir de mi error si hay algo mal interpretado, y hacer una reflexión final:&lt;/p&gt;
+
+&lt;p&gt;El estado &lt;em&gt;natural&lt;/em&gt; de la humanidad, de donde viene el 100% de ella, es el de extrema pobreza. Esto no significa de ninguna forma que debamos conformarnos ni que las cosas ahora estén bien, pero pueden estar mucho mejor que antes y mal a la vez. La cuestión real es qué se propone para acelerar este proceso de generación de riqueza y, por lo menos, no me parece descabellado que se sugiera aplicar más medidas como las que han conseguido el desarrollo actual. Jugar a decir que es indigno cualquier sistema que no haga que desaparezca la pobreza mañana, parece desconsiderado. A todos nos indignan las carencias de aquellos que están peor que nosotros.&lt;/p&gt;
+
+&lt;h2 id=&quot;más-datos-sobre-tendencias-mundiales-en-las-últimas-décadas&quot;&gt;Más datos sobre tendencias mundiales en las últimas décadas&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;La web de &lt;a href=&quot;https://www.gapminder.org/&quot;&gt;Gapminder&lt;/a&gt; con muchísimos gráficos interactivos sobre el desarrollo del mundo.&lt;/li&gt;
+  &lt;li&gt;Los mismos autores de este libro tienen una página web muy interesante, &lt;a href=&quot;https://www.gapminder.org/dollar-street/matrix&quot;&gt;Dollarstreet&lt;/a&gt;, donde se puede ver cómo se vive en diferentes partes del mundo con diferentes niveles de renta.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.economist.com/graphic-detail/2011/12/07/double-your-income&quot;&gt;&lt;em&gt;How many years will it take for income per person to double?&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Branko Milanovic &lt;a href=&quot;https://www.youtube.com/watch?v=SMsirg7Z0bU&quot;&gt;sobre la desigualdad de ingresos global&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Juan Ramón Rallo &lt;a href=&quot;https://blogs.elconfidencial.com/economia/laissez-faire/2016-12-28/extrema-derecha-hija-mentiras-extrema-izquierda-globaliacion_1309815/&quot;&gt;sobre el elefante de Milanovic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
 
 </feed>
