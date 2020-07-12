@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Charlas de técnicos futfem en cuarentena
+permalink: charlas-tecnicos-futfem
+date: 2020-05-02
+excerpt: Una recopilación de charlas y conferencias impartidas por miembros de los cuerpos técnicos de equipos de Primera Iberdrola, Reto Iberdrola y la Selección Española de Fútbol durante los días de confinamiento.
 --- 
 
-Una recopilación de charlas y conferencias impartidas por miembros de los cuerpos técnicos de equipos de Primera Iberdrola, Reto Iberdrola y la Selección Española de Fútbol durante estos días de confinamiento. Aquellas que estén en YouTube están recogidas también en esta [lista de reproducción](https://www.youtube.com/playlist?list=PLuUm6ZOX8e5vwIv3DTKORyqFD_HK873jG).
+Una recopilación de charlas y conferencias impartidas por miembros de los cuerpos técnicos de equipos de Primera Iberdrola, Reto Iberdrola y la Selección Española de Fútbol durante los días de confinamiento. Aquellas que estén en YouTube están recogidas también en esta [lista de reproducción](https://www.youtube.com/playlist?list=PLuUm6ZOX8e5vwIv3DTKORyqFD_HK873jG).
 * Do not remove this line (it will not be displayed)
 {:toc}
 

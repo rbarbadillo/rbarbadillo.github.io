@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Comentarios sobre Cuellilargo y su crítica al capitalismo
+permalink: comentarios-cuellilarglo-critica-capitalismo
+date: 2019-07-16
 --- 
 En abril el _youtuber_ Pol Andinach (_Cuellilargo_) subió [este vídeo](https://www.youtube.com/watch?v=0AUUG11OP_Y) en el que intenta probar que el capitalismo no es ‘el mejor sistema posible’ (sic).
 

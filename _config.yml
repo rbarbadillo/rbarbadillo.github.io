@@ -1,7 +1,7 @@
 # Setup
 title:               rb
 tagline:             'un blog'
-description:         'Notas de temas variados.'
+description:         'What are you building?'
 url:                 https://rbarbadillo.github.io
 markdown:            kramdown
 baseurl:             ''

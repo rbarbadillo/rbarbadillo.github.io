@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>rb</title>
- <link href="https://rbarbadillo.github.io/atom.xml" rel="self"/>
- <link href="https://rbarbadillo.github.io/"/>
- <updated>2020-07-12T17:18:07+02:00</updated>
- <id>https://rbarbadillo.github.io</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-07-12T17:52:23+02:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Raquel Barbadillo</name>
    <email>raquelbarbadillo@pm.me</email>
@@ -14,10 +14,10 @@
  
  <entry>
    <title>Charlas de técnicos futfem en cuarentena</title>
-   <link href="https://rbarbadillo.github.io/2020/05/02/charlas-tecnicos-futfem-cuarentena/"/>
+   <link href="http://localhost:4000/charlas-tecnicos-futfem"/>
    <updated>2020-05-02T00:00:00+02:00</updated>
-   <id>https://rbarbadillo.github.io/2020/05/02/charlas-tecnicos-futfem-cuarentena</id>
-   <content type="html">&lt;p&gt;Una recopilación de charlas y conferencias impartidas por miembros de los cuerpos técnicos de equipos de Primera Iberdrola, Reto Iberdrola y la Selección Española de Fútbol durante estos días de confinamiento. Aquellas que estén en YouTube están recogidas también en esta &lt;a href=&quot;https://www.youtube.com/playlist?list=PLuUm6ZOX8e5vwIv3DTKORyqFD_HK873jG&quot;&gt;lista de reproducción&lt;/a&gt;.&lt;/p&gt;
+   <id>http://localhost:4000/charlas-tecnicos-futfem-cuarentena</id>
+   <content type="html">&lt;p&gt;Una recopilación de charlas y conferencias impartidas por miembros de los cuerpos técnicos de equipos de Primera Iberdrola, Reto Iberdrola y la Selección Española de Fútbol durante los días de confinamiento. Aquellas que estén en YouTube están recogidas también en esta &lt;a href=&quot;https://www.youtube.com/playlist?list=PLuUm6ZOX8e5vwIv3DTKORyqFD_HK873jG&quot;&gt;lista de reproducción&lt;/a&gt;.&lt;/p&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#selección-española&quot; id=&quot;markdown-toc-selección-española&quot;&gt;Selección Española&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#montse-tomé-pedro-lópez-y-kenio-gonzalo---charla-interactiva&quot; id=&quot;markdown-toc-montse-tomé-pedro-lópez-y-kenio-gonzalo---charla-interactiva&quot;&gt;Montse Tomé, Pedro López y Kenio Gonzalo - Charla Interactiva&lt;/a&gt;&lt;/li&gt;
@@ -234,9 +234,9 @@ Participan: Oscar Fernández (entrenador del Madrid CFF) , Vanessa Martínez, Gl
  
  <entry>
    <title>Mis diferentes casas</title>
-   <link href="https://rbarbadillo.github.io/2020/04/29/mis-diferentes-casas/"/>
+   <link href="http://localhost:4000/mis-diferentes-casas"/>
    <updated>2020-04-29T00:00:00+02:00</updated>
-   <id>https://rbarbadillo.github.io/2020/04/29/mis-diferentes-casas</id>
+   <id>http://localhost:4000/mis-diferentes-casas</id>
    <content type="html">&lt;p&gt;Nací y crecí en un pueblo colindante a la municipalidad de Santander llamado Santa Cruz de Bezana. Aquí en verano todo es muy idílico y, como con todo lo maravilloso, no te das cuenta. Puedes darte un paseo (largo) hasta la playa o coger el coche y darte un chapuzón todos los días después del trabajo. Tomarte una caña con tus amigos en El Río de la Pila (ay, el Cientocero), irte a la Bahía para tomar la última a las 5 de la mañana… Pasé así mis años universitarios, que no los cambiaría por nada del mundo. Otro ritmo de vida.&lt;/p&gt;
 
 &lt;p&gt;Cuando terminé el grado, tenía ganas de comerme el mundo. Había pasado 6 meses en Estados Unidos en una universidad increíble y tenía mucha hambre de hacer cosas. Como todo veinteañero que se precie en Cantabria, me mudé a Madrid. Se dice siempre y yo tampoco me canso de repetirlo: a la semana estaba en casa. Me gustaba el bullicio de la gran ciudad y la efervescencia. Tras dos años allí, terminé las asignaturas del máster que estaba haciendo y estaba harta de estudiar en el sistema universitario. Quería salir y trabajar. En 2018, un poco por casualidad, dejé Madrid por primera vez.&lt;/p&gt;
@@ -253,9 +253,9 @@ Participan: Oscar Fernández (entrenador del Madrid CFF) , Vanessa Martínez, Gl
  
  <entry>
    <title>Comentarios sobre Cuellilargo y su crítica al capitalismo</title>
-   <link href="https://rbarbadillo.github.io/2019/07/16/comentarios-cuellilargo-critica-capitalismo/"/>
+   <link href="http://localhost:4000/comentarios-cuellilarglo-critica-capitalismo"/>
    <updated>2019-07-16T00:00:00+02:00</updated>
-   <id>https://rbarbadillo.github.io/2019/07/16/comentarios-cuellilargo-critica-capitalismo</id>
+   <id>http://localhost:4000/comentarios-cuellilargo-critica-capitalismo</id>
    <content type="html">&lt;p&gt;En abril el &lt;em&gt;youtuber&lt;/em&gt; Pol Andinach (&lt;em&gt;Cuellilargo&lt;/em&gt;) subió &lt;a href=&quot;https://www.youtube.com/watch?v=0AUUG11OP_Y&quot;&gt;este vídeo&lt;/a&gt; en el que intenta probar que el capitalismo no es ‘el mejor sistema posible’ (sic).&lt;/p&gt;
 
 &lt;p&gt;Tanto él, como yo y la gran mayoría de la población, queremos mejorar no solo nuestra existencia, sino también la de el resto del mundo, muy especialmente la de aquellos más desfavorecidos. Las diferencias pueden radicar en qué pensamos que es lo más efectivo.&lt;/p&gt;
