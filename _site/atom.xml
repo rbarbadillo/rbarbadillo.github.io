@@ -4,7 +4,7 @@
  <title>rb</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-07-12T09:07:05+02:00</updated>
+ <updated>2020-07-12T09:41:09+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Raquel Barbadillo</name>
@@ -52,7 +52,10 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;iframe width=&quot;900&quot; height=&quot;800&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; src=&quot;//plotly.com/~rbarbadillo/1.embed&quot;&gt;&lt;/iframe&gt;
+&lt;div&gt;
+    &lt;a href=&quot;https://plotly.com/~rbarbadillo/1/?share_key=4Kq4zCTk39CrtIbI09hYfB&quot; target=&quot;_blank&quot; title=&quot;Plot 1&quot; style=&quot;display: block; text-align: center;&quot;&gt;&lt;img src=&quot;https://plotly.com/~rbarbadillo/1.png?share_key=4Kq4zCTk39CrtIbI09hYfB&quot; alt=&quot;Plot 1&quot; style=&quot;max-width: 100%;width: 1441px;&quot; width=&quot;1441&quot; onerror=&quot;this.onerror=null;this.src='https://plotly.com/404.png';&quot; /&gt;&lt;/a&gt;
+    &lt;script data-plotly=&quot;rbarbadillo:1&quot; sharekey-plotly=&quot;4Kq4zCTk39CrtIbI09hYfB&quot; src=&quot;https://plotly.com/embed.js&quot; async=&quot;&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
 &lt;h2 id=&quot;recursos&quot;&gt;Recursos&lt;/h2&gt;
 
 &lt;ul&gt;
