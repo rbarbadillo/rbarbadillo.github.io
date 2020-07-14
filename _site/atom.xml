@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>rb</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2020-07-12T17:52:23+02:00</updated>
- <id>http://localhost:4000</id>
+ <link href="https://rbarbadillo.github.io/atom.xml" rel="self"/>
+ <link href="https://rbarbadillo.github.io/"/>
+ <updated>2020-07-14T21:51:56+02:00</updated>
+ <id>https://rbarbadillo.github.io</id>
  <author>
    <name>Raquel Barbadillo</name>
    <email>raquelbarbadillo@pm.me</email>
@@ -13,10 +13,191 @@
 
  
  <entry>
+   <title>Elinor Ostrom e individuos soberanos</title>
+   <link href="https://rbarbadillo.github.io/ostrom-individuos-soberanos"/>
+   <updated>2020-06-21T00:00:00+02:00</updated>
+   <id>https://rbarbadillo.github.io/ostrom-individuos-soberanos</id>
+   <content type="html">&lt;h3&gt;Links&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://medium.com/@codecodekoen/covid-19-superspreading-events-database-4c0a7aa2342b&quot;&gt;Datos de &amp;gt;1.100 eventos de superpropagación de covid&lt;/a&gt;&lt;/strong&gt; de (&lt;a href=&quot;https://twitter.com/KoenSwinkels&quot;&gt;@&lt;/a&gt;)Koen Swinkels. El
+            97% de estos eventos se dan en interiores y durante largos períodos de tiempo. Además, parece haber una correlación con la temporada de gripe, donde también se pasa más tiempo en espacios cerrados.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=3mDrBs_Ybgg&quot;&gt;¿Cómo se repoblaron las Españas?&lt;/a&gt;&lt;/strong&gt; de (&lt;a href=&quot;https://twitter.com/diazvillanueva&quot;&gt;@&lt;/a&gt;)Fernando Díaz Villanueva.&lt;/p&gt;
+        &lt;blockquote&gt;
+            &lt;p&gt;Es una pregunta que muchos se hacen: ¿cómo se repobló España (y Portugal) durante la Edad Media? El proceso fue extraordinariamente largo, de casi ocho siglos y tuvo diferentes etapas que vinieron marcadas por los recursos que contaban los
+                reinos cristianos del norte y el agotamiento progresivo de los emiratos musulmanes. De aquel proceso surgió la España moderna tanto desde el punto de vista demográfico como, en muchos aspectos, económico y cultural.&lt;/p&gt;
+        &lt;/blockquote&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://mailchi.mp/bonillaware/proyecto-hansei?e=c66744e4e9&quot;&gt;El Proyecto Hansei&lt;/a&gt; &lt;/strong&gt;de&lt;strong&gt; &lt;/strong&gt;(&lt;a href=&quot;https://twitter.com/david_bonilla&quot;&gt;@&lt;/a&gt;)David Bonilla. Sobre la increíble gesta que es llevar a cabo un
+            trámite informático con la administración en España.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&quot;https://connectom.substack.com/p/what-is-life&quot;&gt;What is life?&lt;/a&gt; &lt;/strong&gt;&lt;/em&gt;de (&lt;a href=&quot;https://twitter.com/Kpaxs&quot;&gt;@&lt;/a&gt;)Thibaut. &lt;/p&gt;
+        &lt;blockquote&gt;
+            &lt;p&gt;Si eliminamos todo lo demás, quizás la mejor manera de describir la vida es que es un levantamiento planetario contra la entropía, una rebelión contra las fuerzas de dispersión y fragmentación. &lt;em&gt;[...] &lt;/em&gt;Estar vivo es buscar el orden.
+                Literalmente, está en tus genes.&lt;/p&gt;
+        &lt;/blockquote&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&quot;https://nomoregoogle.com/&quot;&gt;NoMoreGoogle&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt; de (&lt;a href=&quot;https://twitter.com/levelsio&quot;&gt;@&lt;/a&gt;)levelsio. Un sitio donde encontrar buenas alternativas a los productos de Google: Maps, Docs, Chrome, gestor de contraseñas...
+            &lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://mattsclancy.substack.com/p/are-ideas-getting-harder-to-find&quot;&gt;¿Es más difícil encontrar nuevas ideas por la carga del conocimiento?&lt;/a&gt; &lt;/strong&gt;de &lt;strong&gt;(&lt;/strong&gt;&lt;a href=&quot;https://twitter.com/mattsclancy&quot;&gt;@&lt;/a&gt;)Matt
+            Clancy. &lt;a href=&quot;https://rbarbadillo.substack.com/p/transformacin-en-desescalada&quot;&gt;Hace un mes hablamos&lt;/a&gt; de que la innovación por persona o dólar estaba decreciendo alarmantemente. En este ensayo, se argumenta que una de las razones puede
+            ser el aumento en la cantidad de conocimiento que hay que adquirir para llegar a la frontera de un tema.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&quot;https://marginalrevolution.com/marginalrevolution/2020/06/bloody-well-pay-them.html&quot;&gt;Bloody well pay them&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt; de (&lt;a href=&quot;https://twitter.com/atabarrok&quot;&gt;@&lt;/a&gt;)Alex Tabarrok. &lt;/p&gt;
+        &lt;blockquote&gt;
+            &lt;p&gt;Los países que aceptan la guía de la OMS y dependen exclusivamente de donantes voluntarios no remunerados tienen escasez de plasma. Entonces, ¿qué hacen estos países? Importar plasma de los países donde los donantes sí son remunerados.&lt;/p&gt;
+        &lt;/blockquote&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;Sobre desarrollo de software: &lt;a href=&quot;http://smyachenkov.com/posts/cognitive-biases-software-development/&quot;&gt;sesgos cognitivos&lt;/a&gt;, &lt;a href=&quot;https://beesbuzz.biz/blog/2934-Advice-to-young-web-developers&quot;&gt;consejos para jóvenes programadores&lt;/a&gt;,
+            &lt;a href=&quot;https://cjolowicz.github.io/posts/hypermodern-python-01-setup/&quot;&gt;una guía para desarrollo con Python híper-moderno&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=6avJHaC3C2U&quot;&gt;una conferencia sobre la relación entre arte y código&lt;/a&gt;,
+            y &lt;a href=&quot;https://craigmod.com/essays/software_slump/&quot;&gt;el problema del desarrollo brillante de hardware y software mediocre&lt;/a&gt;.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Una persona: Elinor Ostrom&lt;/h3&gt;
+&lt;p&gt;Aunque en su página de Wikipedia se la categorice como «politóloga» y se la suele conocer por ser la primera mujer en recibir un Nobel de Economía., Elinor Ostrom fue una intelectual que estudió el problema de la complejidad y los bienes comunes de una
+    forma holística, desde la economía, sociología, politología, etc.&lt;/p&gt;
+&lt;p&gt;(&lt;a href=&quot;https://twitter.com/tylercowen&quot;&gt;@&lt;/a&gt;)Tyler Cowen resume bien su vida personal e intelectual en este vídeo.&lt;/p&gt;
+&lt;div id=&quot;youtube2-BDEAgmklNyE&quot; class=&quot;youtube-wrap&quot; data-attrs=&quot;{&amp;quot;videoId&amp;quot;:&amp;quot;BDEAgmklNyE&amp;quot;,&amp;quot;startTime&amp;quot;:null,&amp;quot;endTime&amp;quot;:null}&quot;&gt;&lt;iframe src=&quot;https://www.youtube-nocookie.com/embed/BDEAgmklNyE?rel=0&amp;amp;autoplay=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;autoplay; fullscreen&quot; allowautoplay=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;El mejor resumen de su trayectoria intelectual lo da ella misma en &lt;a href=&quot;https://www.youtube.com/watch?v=T6OgRki5SgM&quot;&gt;su charla de aceptación del Nobel&lt;/a&gt; y en &lt;a href=&quot;https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/biographical/&quot;&gt;este artículo auobiográfico&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Governing The Commons&lt;/em&gt;, su libro más conocido, &lt;a href=&quot;https://wtf.tw/ref/ostrom_1990.pdf&quot;&gt;está disponible online en PDF.&lt;/a&gt; En Cataluña &lt;a href=&quot;https://institutostrom.org/en/&quot;&gt;hay un think tank que lleva su nombre&lt;/a&gt; y recientemente uno de
+    sus miembros, (&lt;a href=&quot;https://twitter.com/martijim7&quot;&gt;@&lt;/a&gt;) Martí Jiménez, ha publicado un artículo donde &lt;a href=&quot;https://cadep.ufm.edu/semanario/2020/05/repensando-nuestras-instituciones-elinor-ostrom-y-la-teoria-de-la-eleccion-publica-ante-los-nuevos-retos-globales/&quot;&gt;explica la aplicación de las ideas de Ostrom a «los nuevos retos globales»&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Un libro: &lt;em&gt;El individuo soberano&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;El individuo soberano&lt;/em&gt; es un ensayo escrito en 1996 por James Dale Davidson y William Rees-Mogg. Intenta predecir los efectos de la «Revolución de la Información». Personalmente me interesé por él por la popularidad que tenía en los círculos de
+    &lt;a href=&quot;https://estudiobitcoin.com/&quot;&gt;Bitcoin&lt;/a&gt;, que es una de las tecnologías vaticinadas en el libro.&lt;/p&gt;
+&lt;p&gt;Pronosticar tanto como hace este libro es siempre arriesgado. Muchas cosas serán erróneas y algunas (como las criptomonedas) correctas, pero es un ejercicio intelectual curioso.&lt;/p&gt;
+&lt;p&gt;Los autores utilizan la transformación vivida en la Revolución Industrial para proyectar los posibles resultados de la Revolución de la Información. Comparan el ocaso del poder de la Iglesia y el alzamiento del Estado-Nación, con lo que ellos preven para
+    las próximas décadas: la decadencia Estado-Nación y el encumbramiento de lo que ellos llaman el &lt;em&gt;individuo soberano&lt;/em&gt;. Aseguran que esta transición es inevitable y provocada por cambios tecnológicos, que harán que la violencia que puede ejercer
+    poder estatal sea mucho menor.&lt;/p&gt;
+&lt;p&gt;Auguran una gran descentralización geográfica, pero por lo menos hasta que sufrimos la actual pandemia, esta no era la tendencia. Hasta ahora la gente más ambiciosa y emprendedora, tendía a aglomerarse en zonas en “hubs” como Shenzhen, Silicon Valley,
+    grandes ciudades en general, etc. Sobre esto escribió Richard Florida, «Las ciudades creativas»: &lt;a href=&quot;https://www.youtube.com/watch?v=oO8P9BheRxk&quot;&gt;charla&lt;/a&gt; y &lt;a href=&quot;https://www.amazon.es/Las-ciudades-creativas-decisi%C3%B3n-importante/dp/8449322049&quot;&gt;libro&lt;/a&gt;.
+    El distanciamiento social al que nos hemos visto y veremos sometidos en los próximos meses quizá haga que esta tendencia cambie, pero no parece evidente.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.semanticscholar.org/paper/The-Sovereign-Individual-Rees-Mogg-Davidson/f5fa37255b304967a834cc78e5d035f0f67ec5b2&quot;&gt;El libro está disponible online en PDF&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fe de erratas:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;p&gt;Apuntaba incorrectamente que Elinor Ostrom ha sido la única mujer en recibir un Nobel de Economía. El año pasado Esther Duflo lo recibió junto a Michael Kremer y Abhijit Banerjee «&lt;a href=&quot;https://nadaesgratis.es/admin/repensar-la-pobreza-reflexiones-mas-pausadas-sobre-el-premio-nobel-de-economia-2019-a-abhijit-banerjee-esther-duflo-y-michael-kremer&quot;&gt;por su enfoque experimental para aliviar la pobreza mundial.&lt;/a&gt;»&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;
+    &lt;hr /&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SpaceX, Tobi Lütke y tenis</title>
+   <link href="https://rbarbadillo.github.io/spacex-lutke-tenis"/>
+   <updated>2020-06-07T00:00:00+02:00</updated>
+   <id>https://rbarbadillo.github.io/spacex-tobi-lutke-tenis</id>
+   <content type="html">&lt;h3&gt;Links&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;SpaceX.&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt;
+            &lt;li&gt;
+                &lt;p&gt;&lt;a href=&quot;https://youtu.be/RNxfwySV3Tk&quot;&gt;Los hitos de SpaceX en 2020.&lt;/a&gt;&lt;/p&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+                &lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/news/features/2020-05-22/elon-musk-speaks-frankly-on-coronavirus-spacex-and-rage-tweets&quot;&gt;Musk, el héroe que Estados Unidos merece.&lt;/a&gt;&lt;/p&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+                &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=N5faA2MZ6jY&amp;amp;cc_load_policy=1&amp;amp;cc_lang_pref=es&quot;&gt;¿Qué software desarrollan?&lt;/a&gt; Un &lt;a href=&quot;https://www.reddit.com/r/spacex/comments/gxb7j1/we_are_the_spacex_software_team_ask_us_anything/?sort=qa&quot;&gt;AMA (sesión de preguntas y respuestas)&lt;/a&gt;                    con el equipo de software.&lt;/p&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+                &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q&quot;&gt;Everyday Austronaut&lt;/a&gt;: un canal que explica en detalle muchos aspectos de la empresa. Hay desde &lt;a href=&quot;https://www.youtube.com/watch?v=p4ZLysa9Qqg&quot;&gt;entrevistas con Musk y Bridenstine (Administrador de la NASA)&lt;/a&gt;                    a &lt;a href=&quot;https://www.youtube.com/watch?v=LbH1ZDImaI8&quot;&gt;explicaciones de los motores&lt;/a&gt;. Y suele tener subtítulos en español.&lt;/p&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://andymatuschak.org/books/&quot;&gt;¿Son los libros el mejor medio de formación?&lt;/a&gt;&lt;/strong&gt; (&lt;a href=&quot;https://twitter.com/andy_matuschak&quot;&gt;@&lt;/a&gt;)Andy Matuschak sobre diferentes medios de transmisión de información (clase magistral,
+            libros, libros de texto, etc.) y lo que poco retenemos de ellos. Él y (&lt;a href=&quot;https://twitter.com/michael_nielsen&quot;&gt;@&lt;/a&gt;)Michael Nielsen han publicado &lt;a href=&quot;https://quantum.country/&quot;&gt;un &quot;libro mnemotécnico&quot; para aprender computación cuántica&lt;/a&gt;.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://fakenous.net/?p=1654&quot;&gt;Las licencias son una m*erda&lt;/a&gt;.&lt;/strong&gt; Michael Huemer argumenta en contra el uso de licencias en profesiones (de peluquero a médico), exponiendo las razones por las que los consumidores se ven
+            afectados negativamente por ellas.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://open.spotify.com/episode/6HwnF0BgJdVVIavoIIi12A?si=JD-OZPcuRs2jqqo1ogaLVg&quot;&gt;Estatus y belleza&lt;/a&gt;&lt;/strong&gt;. (&lt;a href=&quot;https://twitter.com/tylercowen&quot;&gt;@&lt;/a&gt;)Tyler Cowen entrevista a (&lt;a href=&quot;https://www.bu.edu/sociology/faculty-staff/faculty/ashley-mears/&quot;&gt;@&lt;/a&gt;)Ashley
+            Mears (socióloga y ex-modelo) y hablan sobre su libro &lt;em&gt;&lt;a href=&quot;https://press.princeton.edu/books/hardcover/9780691168654/very-important-people&quot;&gt;Very Important People&lt;/a&gt;&lt;/em&gt; (describe cómo las mujeres jóvenes intercambian “capital corporal”
+            por bebidas gratis y acceso a eventos, lo que aumenta el estatus de los hombres que acompañan), su experiencia como modelo y más aspectos relacionados con la industria.&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Una persona: Tobi Lütke&lt;/h3&gt;
+&lt;p&gt;(&lt;a href=&quot;https://twitter.com/tobi&quot;&gt;@&lt;/a&gt;) Tobi Lütke es CEO y fundador de Shopify. Shopify es una empresa canadiense que te da herramientas para montar tu negocio online, podéis aprender sobre su historia &lt;a href=&quot;https://www.youtube.com/watch?v=EDleqidmsXA&quot;&gt;aquí&lt;/a&gt;    (hasta 2016) y &lt;a href=&quot;https://www.youtube.com/watch?v=nEB8hvN47CI&quot;&gt;aquí&lt;/a&gt; (los últimos años).&lt;/p&gt;
+&lt;p&gt;Lütke es desarrollador de software y formó parte del equipo de desarrollo de &lt;a href=&quot;https://rubyonrails.org/&quot;&gt;Ruby on Rails&lt;/a&gt;. Utilizando este lenguaje de programación montó una página para vender tablas de snow y, al ver lo difícil que era el proceso,
+    comenzó Shopify.&lt;/p&gt;
+&lt;p&gt;Algunas de las ideas de las que habla: &lt;a href=&quot;https://www.antonsten.com/fifa/&quot;&gt;cómo los videojuegos le han preparado para ser CEO&lt;/a&gt; de una empresa y &lt;a href=&quot;https://www.forbes.com/sites/kevinanderton/2017/04/29/the-business-of-video-games-a-multi-billion-dollar-industry-infographic/#4f7826716d27&quot;&gt;cómo la industria está muy infravalorada&lt;/a&gt;,
+    cómo &lt;a href=&quot;https://resumidito.com/resumen/resumen-del-libro-la-caja-the-box-por-marc-levinson/2/#.XtzFdx3tZQI&quot;&gt;la utilización del contenedor en el transporte de bienes fue revolucionario&lt;/a&gt;, sobre &lt;a href=&quot;https://www.youtube.com/watch?v=SGJ5cZnoodY&quot;&gt;Shenzhen e innovación&lt;/a&gt;.
+    En &lt;a href=&quot;https://twitter.com/george__mack/status/1262509016992960512&quot;&gt;este hilo&lt;/a&gt; podéis leer también seis &lt;a href=&quot;https://fs.blog/mental-models/&quot;&gt;modelos mentales&lt;/a&gt; que él aplica.&lt;/p&gt;
+&lt;p&gt;Sus mejores entrevistas han sido &lt;a href=&quot;https://tim.blog/2019/02/07/tobi-lutke-shopify/&quot;&gt;con Tim Ferriss&lt;/a&gt; y &lt;a href=&quot;https://fs.blog/knowledge-project/tobi-lutke/&quot;&gt;Shane Parrish&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Un libro: &lt;em&gt;El juego interior del tenis&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;En 1974, W. Timothy Gallway publicó lo que ahora se considera la guía clásica del entrenamiento mental para un deportista. El título del libro, e&lt;em&gt;l juego interior del tenis&lt;/em&gt;, se refiere a la lucha que se establece entre dos personalidades diferentes:
+    &lt;em&gt;yo 1&lt;/em&gt; (consciente y analítico) y &lt;em&gt;yo 2&lt;/em&gt; (subconsciente y práctico). Gallway defiende que debemos reforzar a nuestro&lt;em&gt; yo 2&lt;/em&gt;: que no juzga nuestros errores y tiene una extraordinaria capacidad de aprendizaje. Podéis leer &lt;a href=&quot;https://behindtheathlete.es/blog/el-juego-interior-del-tenis-de-tim-gallwey/&quot;&gt;un resumen por capítulos aquí&lt;/a&gt;,
+    pero recomiendo leer el libro entero (que es breve y hay copias gratis online).&lt;/p&gt;
+&lt;p&gt;Lo bueno del libro (y por lo que se ha hecho tan popular) es que no solo es extrapolable a cualquier otro deporte, si no al resto de la vida. Hay dos ideas que más me han atraído en particular.&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+        &lt;p&gt;Gran parte de hacer bien las cosas se trata de comprender qué está sucediendo. Una vez ese input es correcto, puedes entrenar a tu consciente y subconsciente para que realice las correcciones necesarias.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;«El sentido de ganar»&lt;/strong&gt;. Sobre donde radica el valor de la victoria:&lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+    &lt;p&gt;Una vez, cuando tenía quince años, gané a un joven de dieciocho años en un torneo local. Después del partido, mi padre bajó de las gradas y me felicitó sinceramente por mi victoria, pero la reacción de mi madre fue: &quot;Oh, ese pobre muchacho; lo mal
+        que debe sentirse haber sido derrotado por alguien mucho más joven&quot;. Fue un claro ejemplo de la psique empujada contra sí misma. Sentí orgullo y culpa al mismo tiempo. Hasta que me di cuenta del propósito de competir, nunca me sentí realmente
+        feliz de vencer a alguien, y mentalmente tuve problemas para jugar bien cuando estaba cerca de la victoria. He encontrado que esto es cierto con muchos jugadores, especialmente cuando están al borde de un disgusto. Una de las causas de la tensión
+        experimentada en estos momentos se basa en la noción falsa sobre la competencia. Si supongo que me estoy haciendo más digno de respeto al ganar, entonces debo creer, consciente o inconscientemente, que al derrotar a alguien, lo estoy haciendo
+        menos digno de respeto. No puedo subir sin empujar a alguien más hacia abajo. Esta creencia nos involucra en un sentido innecesario de culpa. No tienes que convertirte en un matador para ser un ganador; simplemente debes darte cuenta de que aniquilar
+        no es la cuestión del juego. Hoy juego cada punto para ganar. Es simple y es bueno. No me preocupa ganar o perder el partido, sino si estoy haciendo el máximo esfuerzo en cada punto porque me doy cuenta de que ahí es donde radica el verdadero
+        valor.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transformacion en desescalada</title>
+   <link href="https://rbarbadillo.github.io/transformacion-en-desescalada"/>
+   <updated>2020-05-23T00:00:00+02:00</updated>
+   <id>https://rbarbadillo.github.io/transformación-en-desescalada</id>
+   <content type="html">&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;¿&lt;em&gt;Long &lt;/em&gt;Tesla&lt;em&gt;?&lt;/em&gt;&lt;/strong&gt; (&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://twitter.com/foso_defensivo&quot; target=&quot;_blank&quot;&gt;@&lt;/a&gt;)Emérito Quintana, de Numantia Patrimonio Global, analiza Tesla. La &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://youtu.be/1w9MZDwe9ho&quot; target=&quot;_blank&quot;&gt;primera parte&lt;/a&gt; son 2 horas y media, y la &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://youtu.be/s-OTuhOJQXA&quot; target=&quot;_blank&quot;&gt;segunda&lt;/a&gt; 40 minutos respondiendo preguntas&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Un portal para iniciarse en Bitcoin:&lt;/strong&gt; &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://estudiobitcoin.com/&quot; target=&quot;_blank&quot;&gt;Estudio Bitcoin&lt;/a&gt;, por (&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://twitter.com/lunaticoin&quot; target=&quot;_blank&quot;&gt;@&lt;/a&gt;)Lunaticoin y (&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://twitter.com/multicripto&quot; target=&quot;_blank&quot;&gt;@&lt;/a&gt;)Arkad.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Skin in the game&lt;/strong&gt;: un &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://skininthegameblog.blogspot.com/&quot; target=&quot;_blank&quot;&gt;blog divulgativo&lt;/a&gt; de finanzas y economía.&lt;/li&gt;&lt;li&gt;(&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://twitter.com/BillAckman&quot; target=&quot;_blank&quot;&gt;@&lt;/a&gt;)&lt;strong&gt;Bill Ackman con &lt;/strong&gt;(&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://twitter.com/ShaneAParrish&quot; target=&quot;_blank&quot;&gt;@&lt;/a&gt;)&lt;strong&gt;Shane Parris&lt;/strong&gt;. Entrevista al gestor de Pershing Square Capital sobre inversión, lecciones aprendidas del fracaso, deporte, Herbalife y mucho más. Podéis escucharla en &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://open.spotify.com/episode/7efKjZT74ekz5bAxFoFu5P?si=8lyIuln2Qhedg8nuaj6iLg&quot; target=&quot;_blank&quot;&gt;Spotify&lt;/a&gt; o &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://www.youtube.com/watch?v=mIS3LYxgVWc&quot; target=&quot;_blank&quot;&gt;YouTube&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Experiencias de &lt;em&gt;ex-pats&lt;/em&gt;&lt;/strong&gt;: (&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://twitter.com/jjvelazs&quot; target=&quot;_blank&quot;&gt;@&lt;/a&gt;)JJ Velaz &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://twitter.com/jjvelazs/status/1259003562014593025&quot; target=&quot;_blank&quot;&gt;se entrevista&lt;/a&gt; con jóvenes que han salido de España (y Europa) para que cuenten su experiencia. Podéis ver las entrevistas &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://www.youtube.com/channel/UCdCqVKixV2zm4baom0tShjg/videos&quot; target=&quot;_blank&quot;&gt;en YouTube&lt;/a&gt; o escucharlas &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://open.spotify.com/show/4uaiww4bLD9vpcxgb5C3Lt?si=31TlaKtOTmWn2XgzTTOHOQ&quot; target=&quot;_blank&quot;&gt;en Spotify&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id=&quot;una-persona-patrick-collison&quot;&gt;Una persona: Patrick Collison&lt;/h3&gt;
+
+&lt;p&gt;(&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://twitter.com/patrickc&quot; target=&quot;_blank&quot;&gt;@&lt;/a&gt;)Patrick Collison es co-fundador y CEO de &lt;a href=&quot;https://stripe.com/es&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;Stripe&lt;/a&gt;. La empresa tiene 10 años: «su software permite a individuos y negocios recibir pagos por&amp;nbsp;internet. Proporciona la infraestructura técnica, de prevención de fraude y bancaria necesaria para operar&amp;nbsp;sistemas de pago en línea.» [&lt;a href=&quot;https://es.wikipedia.org/wiki/Stripe&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;Wiki&lt;/a&gt;] Además de esos servicios, tienen una plataforma que permite abrir compañías de responsabilidad limitada basadas en Delaware (&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://stripe.com/atlas&quot; target=&quot;_blank&quot;&gt;Atlas&lt;/a&gt;), otra para la creación de tarjetas (&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://stripe.com/es/issuing&quot; target=&quot;_blank&quot;&gt;Issuing&lt;/a&gt;), lectores de tarjetas para utilizar Stripe en tiendas físicas (&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://stripe.com/es/terminal&quot; target=&quot;_blank&quot;&gt;Terminal&lt;/a&gt;) y su propia editorial (&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://press.stripe.com/&quot; target=&quot;_blank&quot;&gt;Press&lt;/a&gt;). Ved &lt;a href=&quot;https://youtu.be/s2UBVtqhmEc&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;este vídeo&lt;/a&gt; si os interesa la historia de la empresa. &lt;/p&gt;
+
+&lt;p&gt;Encontré &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://patrickcollison.com/&quot; target=&quot;_blank&quot;&gt;su página web&lt;/a&gt; por casualidad. Me gustaron sus secciones: &lt;em&gt;&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://patrickcollison.com/fast&quot; target=&quot;_blank&quot;&gt;Fast&lt;/a&gt;&lt;/em&gt; (sobre proyectos ambiciosos conseguidos muy rápido) y &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://patrickcollison.com/bookshelf&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Bookshelf&lt;/em&gt;&lt;/a&gt; (una lista  de libros que tiene, de los que ha leído la mitad, &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://www.brainpickings.org/2015/03/24/umberto-eco-antilibrary/&quot; target=&quot;_blank&quot;&gt;un poco &lt;em&gt;à la&lt;/em&gt; Umberto Eco&lt;/a&gt;). Una de las ideas en las que se centra mucho es la 'tasa' de innovación: la velocidad a la que innovamos por persona. Sostiene que está disminuyendo exponencialmente y que es de los sucesos que más deberían preocuparnos. Podéis consultar sus páginas de &lt;a href=&quot;https://patrickcollison.com/progress&quot;&gt;&lt;em&gt;Progress&lt;/em&gt;&lt;/a&gt; o &lt;em&gt;&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://patrickcollison.com/growth&quot; target=&quot;_blank&quot;&gt;Growth&lt;/a&gt;&lt;/em&gt;, leer &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://www.theatlantic.com/author/patrick-collison/&quot; target=&quot;_blank&quot;&gt;dos artículos&lt;/a&gt; suyos o visitar &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://scientificreturns.org/&quot; target=&quot;_blank&quot;&gt;ScientificReturns.org&lt;/a&gt; para conocer más sobre el tema.&lt;/p&gt;
+
+&lt;p&gt;En sus entrevistas habla tanto de Stripe como de innovación y progreso. Las mejores: &lt;a href=&quot;https://open.spotify.com/episode/7ML0c2nvJzEWoaMABrHm2X?si=c2JHZX9zQYm6Yx3WQgy6QA&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;con Russ Roberts&lt;/a&gt;, &lt;a href=&quot;https://open.spotify.com/episode/3z5H2C8rHadLlNbySoMcYC?si=mr0oc0i9QX2gOA8cbfQhBg&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;con Shane Parrish&lt;/a&gt;, &lt;a href=&quot;https://open.spotify.com/episode/3xRJefpMnEJB3Qh42VnU8X?si=opE0GtKKRImNgU99WL5R6g&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;con Ezra Klein&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=Avqi1HeRlCQ&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;con Reid Hoffman&lt;/a&gt; y &lt;a href=&quot;https://medium.com/notes-essays-cs183c-technology-enabled-blitzscalin/class-11-notes-essay-reid-hoffman-john-lilly-chris-yeh-and-allen-blue-s-cs183c-technology-ebf34cebae26#.4ecj29w55&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;una clase en Standford con John Lilly&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;un-librorange&quot;&gt;Un libro:&lt;em&gt;Range&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;(&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://twitter.com/DavidEpstein&quot; target=&quot;_blank&quot;&gt;@&lt;/a&gt;)David Epstein escribe sobre por qué los generalistas triunfan en un mundo especializado. Un libro que intenta desbancar la teoría de las 10.000 horas y la práctica deliberada.&lt;/p&gt;
+&lt;p&gt;El autor analiza las carreras y éxitos de deportistas, artistas, inventores, pronosticadores y científicos. Concluye que en los campos más complejos e impredecibles son los generalistas los más preparados para distinguirse. Éstos suelen encontrar su pasión tarde, y compatibilizan varios intereses en lugar de centrarse en uno. También son más creativos, más ágiles y pueden hacer conexiones que sus compañeros especialistas no son capaces de ver.&lt;/p&gt;
+
+&lt;p&gt;El libro es curioso pero no una obra maestra. Probablemente podría ser resumido en un paper, pero las ideas sí me parecen importantes. En la imagen de debajo se representan las diferentes conexiones entre áreas de la ciencia y las oportunidades que pueden presentar nuevas conexiones en ese gran hueco central.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/ET023HKUUAA41mM?format=jpg&amp;amp;name=medium&quot; alt=&quot;Diferentes conexiones entre áreas de la ciencia&quot; /&gt;
+Lo &lt;a href=&quot;https://twitter.com/david_perell/status/1242209425458212864&quot;&gt;tuiteó David Perell.&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Charlas de técnicos futfem en cuarentena</title>
-   <link href="http://localhost:4000/charlas-tecnicos-futfem"/>
+   <link href="https://rbarbadillo.github.io/charlas-tecnicos-futfem"/>
    <updated>2020-05-02T00:00:00+02:00</updated>
-   <id>http://localhost:4000/charlas-tecnicos-futfem-cuarentena</id>
+   <id>https://rbarbadillo.github.io/charlas-tecnicos-futfem-cuarentena</id>
    <content type="html">&lt;p&gt;Una recopilación de charlas y conferencias impartidas por miembros de los cuerpos técnicos de equipos de Primera Iberdrola, Reto Iberdrola y la Selección Española de Fútbol durante los días de confinamiento. Aquellas que estén en YouTube están recogidas también en esta &lt;a href=&quot;https://www.youtube.com/playlist?list=PLuUm6ZOX8e5vwIv3DTKORyqFD_HK873jG&quot;&gt;lista de reproducción&lt;/a&gt;.&lt;/p&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#selección-española&quot; id=&quot;markdown-toc-selección-española&quot;&gt;Selección Española&lt;/a&gt;    &lt;ul&gt;
@@ -234,9 +415,9 @@ Participan: Oscar Fernández (entrenador del Madrid CFF) , Vanessa Martínez, Gl
  
  <entry>
    <title>Mis diferentes casas</title>
-   <link href="http://localhost:4000/mis-diferentes-casas"/>
+   <link href="https://rbarbadillo.github.io/mis-diferentes-casas"/>
    <updated>2020-04-29T00:00:00+02:00</updated>
-   <id>http://localhost:4000/mis-diferentes-casas</id>
+   <id>https://rbarbadillo.github.io/mis-diferentes-casas</id>
    <content type="html">&lt;p&gt;Nací y crecí en un pueblo colindante a la municipalidad de Santander llamado Santa Cruz de Bezana. Aquí en verano todo es muy idílico y, como con todo lo maravilloso, no te das cuenta. Puedes darte un paseo (largo) hasta la playa o coger el coche y darte un chapuzón todos los días después del trabajo. Tomarte una caña con tus amigos en El Río de la Pila (ay, el Cientocero), irte a la Bahía para tomar la última a las 5 de la mañana… Pasé así mis años universitarios, que no los cambiaría por nada del mundo. Otro ritmo de vida.&lt;/p&gt;
 
 &lt;p&gt;Cuando terminé el grado, tenía ganas de comerme el mundo. Había pasado 6 meses en Estados Unidos en una universidad increíble y tenía mucha hambre de hacer cosas. Como todo veinteañero que se precie en Cantabria, me mudé a Madrid. Se dice siempre y yo tampoco me canso de repetirlo: a la semana estaba en casa. Me gustaba el bullicio de la gran ciudad y la efervescencia. Tras dos años allí, terminé las asignaturas del máster que estaba haciendo y estaba harta de estudiar en el sistema universitario. Quería salir y trabajar. En 2018, un poco por casualidad, dejé Madrid por primera vez.&lt;/p&gt;
@@ -253,9 +434,9 @@ Participan: Oscar Fernández (entrenador del Madrid CFF) , Vanessa Martínez, Gl
  
  <entry>
    <title>Comentarios sobre Cuellilargo y su crítica al capitalismo</title>
-   <link href="http://localhost:4000/comentarios-cuellilarglo-critica-capitalismo"/>
+   <link href="https://rbarbadillo.github.io/comentarios-cuellilargo-critica-capitalismo"/>
    <updated>2019-07-16T00:00:00+02:00</updated>
-   <id>http://localhost:4000/comentarios-cuellilargo-critica-capitalismo</id>
+   <id>https://rbarbadillo.github.io/comentarios-cuellilargo-critica-capitalismo</id>
    <content type="html">&lt;p&gt;En abril el &lt;em&gt;youtuber&lt;/em&gt; Pol Andinach (&lt;em&gt;Cuellilargo&lt;/em&gt;) subió &lt;a href=&quot;https://www.youtube.com/watch?v=0AUUG11OP_Y&quot;&gt;este vídeo&lt;/a&gt; en el que intenta probar que el capitalismo no es ‘el mejor sistema posible’ (sic).&lt;/p&gt;
 
 &lt;p&gt;Tanto él, como yo y la gran mayoría de la población, queremos mejorar no solo nuestra existencia, sino también la de el resto del mundo, muy especialmente la de aquellos más desfavorecidos. Las diferencias pueden radicar en qué pensamos que es lo más efectivo.&lt;/p&gt;
