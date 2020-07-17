@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>rb</title>
- <link href="https://rbarbadillo.github.io/atom.xml" rel="self"/>
- <link href="https://rbarbadillo.github.io/"/>
- <updated>2020-07-14T21:51:56+02:00</updated>
- <id>https://rbarbadillo.github.io</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-07-17T16:58:33+02:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Raquel Barbadillo</name>
    <email>raquelbarbadillo@pm.me</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Elinor Ostrom e individuos soberanos</title>
-   <link href="https://rbarbadillo.github.io/ostrom-individuos-soberanos"/>
+   <link href="http://localhost:4000/ostrom-individuos-soberanos"/>
    <updated>2020-06-21T00:00:00+02:00</updated>
-   <id>https://rbarbadillo.github.io/ostrom-individuos-soberanos</id>
+   <id>http://localhost:4000/ostrom-individuos-soberanos</id>
    <content type="html">&lt;h3&gt;Links&lt;/h3&gt;
 &lt;ul&gt;
     &lt;li&gt;
@@ -95,9 +95,9 @@
  
  <entry>
    <title>SpaceX, Tobi Lütke y tenis</title>
-   <link href="https://rbarbadillo.github.io/spacex-lutke-tenis"/>
+   <link href="http://localhost:4000/spacex-lutke-tenis"/>
    <updated>2020-06-07T00:00:00+02:00</updated>
-   <id>https://rbarbadillo.github.io/spacex-tobi-lutke-tenis</id>
+   <id>http://localhost:4000/spacex-tobi-lutke-tenis</id>
    <content type="html">&lt;h3&gt;Links&lt;/h3&gt;
 &lt;ul&gt;
     &lt;li&gt;
@@ -166,9 +166,9 @@
  
  <entry>
    <title>Transformacion en desescalada</title>
-   <link href="https://rbarbadillo.github.io/transformacion-en-desescalada"/>
+   <link href="http://localhost:4000/transformacion-en-desescalada"/>
    <updated>2020-05-23T00:00:00+02:00</updated>
-   <id>https://rbarbadillo.github.io/transformación-en-desescalada</id>
+   <id>http://localhost:4000/transformación-en-desescalada</id>
    <content type="html">&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
 
 &lt;ul&gt;&lt;li&gt;&lt;strong&gt;¿&lt;em&gt;Long &lt;/em&gt;Tesla&lt;em&gt;?&lt;/em&gt;&lt;/strong&gt; (&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://twitter.com/foso_defensivo&quot; target=&quot;_blank&quot;&gt;@&lt;/a&gt;)Emérito Quintana, de Numantia Patrimonio Global, analiza Tesla. La &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://youtu.be/1w9MZDwe9ho&quot; target=&quot;_blank&quot;&gt;primera parte&lt;/a&gt; son 2 horas y media, y la &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://youtu.be/s-OTuhOJQXA&quot; target=&quot;_blank&quot;&gt;segunda&lt;/a&gt; 40 minutos respondiendo preguntas&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Un portal para iniciarse en Bitcoin:&lt;/strong&gt; &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://estudiobitcoin.com/&quot; target=&quot;_blank&quot;&gt;Estudio Bitcoin&lt;/a&gt;, por (&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://twitter.com/lunaticoin&quot; target=&quot;_blank&quot;&gt;@&lt;/a&gt;)Lunaticoin y (&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://twitter.com/multicripto&quot; target=&quot;_blank&quot;&gt;@&lt;/a&gt;)Arkad.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Skin in the game&lt;/strong&gt;: un &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://skininthegameblog.blogspot.com/&quot; target=&quot;_blank&quot;&gt;blog divulgativo&lt;/a&gt; de finanzas y economía.&lt;/li&gt;&lt;li&gt;(&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://twitter.com/BillAckman&quot; target=&quot;_blank&quot;&gt;@&lt;/a&gt;)&lt;strong&gt;Bill Ackman con &lt;/strong&gt;(&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://twitter.com/ShaneAParrish&quot; target=&quot;_blank&quot;&gt;@&lt;/a&gt;)&lt;strong&gt;Shane Parris&lt;/strong&gt;. Entrevista al gestor de Pershing Square Capital sobre inversión, lecciones aprendidas del fracaso, deporte, Herbalife y mucho más. Podéis escucharla en &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://open.spotify.com/episode/7efKjZT74ekz5bAxFoFu5P?si=8lyIuln2Qhedg8nuaj6iLg&quot; target=&quot;_blank&quot;&gt;Spotify&lt;/a&gt; o &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://www.youtube.com/watch?v=mIS3LYxgVWc&quot; target=&quot;_blank&quot;&gt;YouTube&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Experiencias de &lt;em&gt;ex-pats&lt;/em&gt;&lt;/strong&gt;: (&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://twitter.com/jjvelazs&quot; target=&quot;_blank&quot;&gt;@&lt;/a&gt;)JJ Velaz &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://twitter.com/jjvelazs/status/1259003562014593025&quot; target=&quot;_blank&quot;&gt;se entrevista&lt;/a&gt; con jóvenes que han salido de España (y Europa) para que cuenten su experiencia. Podéis ver las entrevistas &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://www.youtube.com/channel/UCdCqVKixV2zm4baom0tShjg/videos&quot; target=&quot;_blank&quot;&gt;en YouTube&lt;/a&gt; o escucharlas &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://open.spotify.com/show/4uaiww4bLD9vpcxgb5C3Lt?si=31TlaKtOTmWn2XgzTTOHOQ&quot; target=&quot;_blank&quot;&gt;en Spotify&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;
@@ -195,9 +195,9 @@ Lo &lt;a href=&quot;https://twitter.com/david_perell/status/1242209425458212864&
  
  <entry>
    <title>Charlas de técnicos futfem en cuarentena</title>
-   <link href="https://rbarbadillo.github.io/charlas-tecnicos-futfem"/>
+   <link href="http://localhost:4000/charlas-tecnicos-futfem"/>
    <updated>2020-05-02T00:00:00+02:00</updated>
-   <id>https://rbarbadillo.github.io/charlas-tecnicos-futfem-cuarentena</id>
+   <id>http://localhost:4000/charlas-tecnicos-futfem-cuarentena</id>
    <content type="html">&lt;p&gt;Una recopilación de charlas y conferencias impartidas por miembros de los cuerpos técnicos de equipos de Primera Iberdrola, Reto Iberdrola y la Selección Española de Fútbol durante los días de confinamiento. Aquellas que estén en YouTube están recogidas también en esta &lt;a href=&quot;https://www.youtube.com/playlist?list=PLuUm6ZOX8e5vwIv3DTKORyqFD_HK873jG&quot;&gt;lista de reproducción&lt;/a&gt;.&lt;/p&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#selección-española&quot; id=&quot;markdown-toc-selección-española&quot;&gt;Selección Española&lt;/a&gt;    &lt;ul&gt;
@@ -415,9 +415,9 @@ Participan: Oscar Fernández (entrenador del Madrid CFF) , Vanessa Martínez, Gl
  
  <entry>
    <title>Mis diferentes casas</title>
-   <link href="https://rbarbadillo.github.io/mis-diferentes-casas"/>
+   <link href="http://localhost:4000/mis-diferentes-casas"/>
    <updated>2020-04-29T00:00:00+02:00</updated>
-   <id>https://rbarbadillo.github.io/mis-diferentes-casas</id>
+   <id>http://localhost:4000/mis-diferentes-casas</id>
    <content type="html">&lt;p&gt;Nací y crecí en un pueblo colindante a la municipalidad de Santander llamado Santa Cruz de Bezana. Aquí en verano todo es muy idílico y, como con todo lo maravilloso, no te das cuenta. Puedes darte un paseo (largo) hasta la playa o coger el coche y darte un chapuzón todos los días después del trabajo. Tomarte una caña con tus amigos en El Río de la Pila (ay, el Cientocero), irte a la Bahía para tomar la última a las 5 de la mañana… Pasé así mis años universitarios, que no los cambiaría por nada del mundo. Otro ritmo de vida.&lt;/p&gt;
 
 &lt;p&gt;Cuando terminé el grado, tenía ganas de comerme el mundo. Había pasado 6 meses en Estados Unidos en una universidad increíble y tenía mucha hambre de hacer cosas. Como todo veinteañero que se precie en Cantabria, me mudé a Madrid. Se dice siempre y yo tampoco me canso de repetirlo: a la semana estaba en casa. Me gustaba el bullicio de la gran ciudad y la efervescencia. Tras dos años allí, terminé las asignaturas del máster que estaba haciendo y estaba harta de estudiar en el sistema universitario. Quería salir y trabajar. En 2018, un poco por casualidad, dejé Madrid por primera vez.&lt;/p&gt;
@@ -434,9 +434,9 @@ Participan: Oscar Fernández (entrenador del Madrid CFF) , Vanessa Martínez, Gl
  
  <entry>
    <title>Comentarios sobre Cuellilargo y su crítica al capitalismo</title>
-   <link href="https://rbarbadillo.github.io/comentarios-cuellilargo-critica-capitalismo"/>
+   <link href="http://localhost:4000/comentarios-cuellilargo-critica-capitalismo"/>
    <updated>2019-07-16T00:00:00+02:00</updated>
-   <id>https://rbarbadillo.github.io/comentarios-cuellilargo-critica-capitalismo</id>
+   <id>http://localhost:4000/comentarios-cuellilargo-critica-capitalismo</id>
    <content type="html">&lt;p&gt;En abril el &lt;em&gt;youtuber&lt;/em&gt; Pol Andinach (&lt;em&gt;Cuellilargo&lt;/em&gt;) subió &lt;a href=&quot;https://www.youtube.com/watch?v=0AUUG11OP_Y&quot;&gt;este vídeo&lt;/a&gt; en el que intenta probar que el capitalismo no es ‘el mejor sistema posible’ (sic).&lt;/p&gt;
 
 &lt;p&gt;Tanto él, como yo y la gran mayoría de la población, queremos mejorar no solo nuestra existencia, sino también la de el resto del mundo, muy especialmente la de aquellos más desfavorecidos. Las diferencias pueden radicar en qué pensamos que es lo más efectivo.&lt;/p&gt;
