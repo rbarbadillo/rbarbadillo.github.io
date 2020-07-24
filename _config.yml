@@ -1,7 +1,7 @@
 # Setup
 title:               rb
 tagline:             'un blog'
-description:         'In theory, there is no difference between practice and theory. In practice, there is.'
+description:         'Integritas, consonantia et claritas.'
 url:                 https://rbarbadillo.github.io
 markdown:            kramdown
 baseurl:             ''
