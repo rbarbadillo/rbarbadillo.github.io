@@ -38,7 +38,7 @@ Para diferenciar, *el contenido en inglés estará en cursiva*.
 - René Lázaro: [blog](https://renelazaro7.wixsite.com/intothewilde).
 - *Sam Altman*: [blog](http://blog.samaltman.com/).
 - Samuel Gil: [boletín](https://samuelgil.substack.com/).
-- *Scott Alexander*: [blog](https://slatestarcodex.com/) (actualmente [no disponible](https://slatestarcodex.com/2020/06/22/nyt-is-threatening-my-safety-by-revealing-my-real-name-so-i-am-deleting-the-blog/), podéis [consultar su archivo](https://emilkirkegaard.dk/en/?p=8839)).
+- *Scott Alexander*: [blog](https://slatestarcodex.com/)s.
 - *Shane Parrish*: [web](https://fs.blog/) y [podcast](https://open.spotify.com/show/1VyK52NSZHaDKeMJzT4TSM?si=QKerNkyuTOusyJMeZEGu9Q).
 - *Thibaut*: [boletín](https://connectom.substack.com/).
 - *Tim Ferriss*: [podcast](https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM?si=-6K4DsQiS8GmXLGDDYNX-Q).
