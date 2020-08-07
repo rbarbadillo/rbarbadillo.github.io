@@ -4,13 +4,32 @@
  <title>rb</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-07-24T16:49:44+02:00</updated>
+ <updated>2020-08-07T14:23:40+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Raquel Barbadillo</name>
    <email>raquelbarbadillo@pm.me</email>
  </author>
 
+ 
+ <entry>
+   <title>Mi padre</title>
+   <link href="http://localhost:4000/mi-padre"/>
+   <updated>2020-08-06T00:00:00+02:00</updated>
+   <id>http://localhost:4000/mi-padre</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;En memoria de Vicente Ramos, un hombre del renacimiento en la edad líquida.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Mi padre es un hombre de antes. Siempre con camisa y americana. Del Real Madrid y de Raúl. Todos los días de su vida hasta hace un par de años ha cenado un huevo, un san jacobo y una salchicha, excepto los viernes, que hay tortilla de patata. Es de seguir andando aunque se muera con cada paso. También es de invitar siempre; estemos con quien estemos, él paga. Es de tener la bandera de España en la mascarilla y llevarla por Pamplona. No es de misa los domingos (ni nunca) y no se lo digáis porque se enfada.&lt;/p&gt;
+
+&lt;p&gt;Mi padre nunca permitió que mi hermana o yo fuésemos a clases particulares, pero sí se aseguró de que aprendiéramos. Cuando yo tenía 15 años suspendí un examen de trigonometría. Hasta final de curso, yo hacía ejercicios de matemáticas (incluso de aquellos temas de estadística a los que nunca llegábamos en el instituto) y mi padre se tumbaba en mi cama leyendo. Yo me quejaba cuando no podía hacer algo y él se limitaba a decirme que leyese otra vez. Así hasta que conseguía hacerlo yo sola. Luego él comprobaba que los ejercicios tenían los resultados correctos y &lt;em&gt;repeat&lt;/em&gt;. Con 16 tuve un 10 en trigonometría.&lt;/p&gt;
+
+&lt;p&gt;Mi padre me dio mi primera lectura de ensayo filosófico a los 18 años, &lt;em&gt;El conocimiento inútil&lt;/em&gt; de Jean-François Revel. No sé si me cambió la vida, siempre he sido curiosa y creo que hubiese terminado en ese tipo de contenido de todas formas, pero esa fue mi puerta de entrada a la filosofía política y la afición por la lectura de ensayo en general.&lt;/p&gt;
+
+&lt;p&gt;Hasta 2020 nunca le había visto llorar y en estos meses lo he visto dos veces. Da bastante miedo, quizá la prueba más fehaciente de que el tiempo pasa, yo ya no crezco, si no que me hago vieja y mis padres no son todopoderosos.&lt;/p&gt;
+
+&lt;p&gt;Feliz 26 cumpleaños a mí misma.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Elinor Ostrom e individuos soberanos</title>
