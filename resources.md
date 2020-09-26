@@ -9,15 +9,12 @@ Para diferenciar, *el contenido en inglés estará en cursiva*.
 - *Alexey Guzey*: [web](https://guzey.com/).
 - Andrea Martos: [escribe en Rewisor](https://www.rewisor.com/author/andrea-martos/).
 - *Bryan Caplan*: [escribe en EconLib](https://www.econlib.org/econlog/).
-- *Cal Newport*: [blog](https://www.calnewport.com/) y [podcast](https://open.spotify.com/show/0e9lFr3AdJByoBpM6tAbxD?si=hcOkIU_QTUOKGZkiyLwi9w).
 - Carlos Gil Bellosta: [blog](https://www.datanalytics.com/).
-- Daniel García: [blog](https://skininthegameblog.blogspot.com/).
 - David Bonilla: [boletín](http://eepurl.com/eqGj6).
 - *Dagogo Altraide*: [youtube](https://www.youtube.com/user/coldfustion/).
 - Edu Riera: [youtube](https://www.youtube.com/channel/UCW5PjUplChUxAUmEYxrD_Uw).
 - Ernesto Castro: [youtube](https://www.youtube.com/user/holamellamololillo).
 - *Evan Puschak*: [youtube](https://www.youtube.com/user/Nerdwriter1/).
-- Fernando Díaz Villanueva: [youtube](https://www.youtube.com/user/diazvillanueva) y [patreon](https://www.patreon.com/diazvillanueva).
 - *Gwern Branwen*: [web](https://www.gwern.net/) y [patreon](https://www.patreon.com/gwern).
 - *James Clear*: [boletín](https://jamesclear.com/3-2-1/refer?rh_ref=e38b6f09).
 - *Jack Butcher*: [comunidad](https://shop.visualizevalue.com/products/membership), [youtube](https://www.youtube.com/channel/UCusq4zRqitw2C5YWUA6COyQ) y [boletín](https://visualizevalue.substack.com/).
@@ -28,7 +25,6 @@ Para diferenciar, *el contenido en inglés estará en cursiva*.
 - Juan Rallo: [blog](https://blogs.elconfidencial.com/economia/laissez-faire/), [youtube](https://www.youtube.com/user/juanrallo) y [patreon](https://www.patreon.com/juanrallo).
 - Kiko Llaneras: [web](http://kiko.llaneras.es/) y [boletín](https://plus.elpais.com/newsletters/lnp/1/377).
 - Marcos Vázquez: [blog](https://www.fitnessrevolucionario.com/articulos/) y [podcast](https://www.fitnessrevolucionario.com/radio/).
-- María Blanco: [web](https://godivaciones.es/).
 - *Matt Clifford*: [boletín](https://www.getrevue.co/profile/mattclifford).
 - *Matthew McAteer*: [blog](https://matthewmcateer.me/).
 - *Michael Huemer*: [blog](https://fakenous.net) y [youtube](https://www.youtube.com/user/owl235).
@@ -50,6 +46,13 @@ Otras webs:
 - [*LessWrong*](https://www.lesswrong.com/).
 - [NadaEsGratis](https://nadaesgratis.es/).
 
+## Software [*under construction*]
+
+- *Increment*: [revista digital](https://increment.com/)
+- Software 2.0: [podcast](https://open.spotify.com/show/6nUgq0q9wVP6hMekW0dUqm?si=J249zK4DRZyQYgmpf1Zs7g).
+- *The Changelog*: [podcast](https://open.spotify.com/show/5bBki72YeKSLUqyD94qsuJ?si=z0kbH98zTByCzxmUtsVGjw).
+
+
 ## Fútbol
 
 - StatsBomb: [*blog*](https://statsbomb.com/articles/) y [blog en español](https://statsbomb.com/es/articulos/).
@@ -64,10 +67,6 @@ Otras webs:
 - Álvaro Benito: [youtube](https://www.youtube.com/channel/UCRjGflmJEhyNpuhj9d-klOg).
 - El Patio: [youtube](https://www.youtube.com/channel/UCX2q1IH3IbtWkgNwiXnd8aQ).
 
-## Software [*under construction*]
-
-- Software 2.0: [podcast](https://open.spotify.com/show/6nUgq0q9wVP6hMekW0dUqm?si=J249zK4DRZyQYgmpf1Zs7g).
-- *The Changelog*: [podcast](https://open.spotify.com/show/5bBki72YeKSLUqyD94qsuJ?si=z0kbH98zTByCzxmUtsVGjw).
 
 ## Cosas nuevas que estoy mirando
 
