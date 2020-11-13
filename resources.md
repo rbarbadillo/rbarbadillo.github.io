@@ -52,7 +52,6 @@ Otras webs:
 - [*QuantaMagazine*](https://www.quantamagazine.org/)
 - [*Spanish Startup Riders*](https://startupriders.substack.com)
 - [*Works In Progress*](https://worksinprogress.co/)
-- [Platanomelón Eroteca](https://www.platanomelon.com/blogs/eroteca)
 
 ## Software 
 
