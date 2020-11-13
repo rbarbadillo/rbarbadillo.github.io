@@ -3,7 +3,7 @@ layout: page
 title: Fuentes
 permalink: resources
 ---
-Una lista de los recursos que suelo leer, ver o escuchar. Más abajo hay (o habrá) dos secciones dedicadas al desarrollo de software y el fútbol, que creo que son temas concretos que pueden no interesar a todo el mundo.
+Una lista de los recursos que suelo leer, ver o escuchar. Más abajo hay dos secciones dedicadas al desarrollo de software y el fútbol, que creo que son temas concretos que pueden no interesar a todo el mundo.
 Para diferenciar, *el contenido en inglés estará en cursiva*.
 
 - *Alexey Guzey*: [web](https://guzey.com/).
@@ -15,6 +15,7 @@ Para diferenciar, *el contenido en inglés estará en cursiva*.
 - Edu Riera: [youtube](https://www.youtube.com/channel/UCW5PjUplChUxAUmEYxrD_Uw).
 - Ernesto Castro: [youtube](https://www.youtube.com/user/holamellamololillo).
 - *Evan Puschak*: [youtube](https://www.youtube.com/user/Nerdwriter1/).
+- *Greg Wilson*: [blog](https://third-bit.com/).
 - *Gwern Branwen*: [web](https://www.gwern.net/) y [patreon](https://www.patreon.com/gwern).
 - *James Clear*: [boletín](https://jamesclear.com/3-2-1/refer?rh_ref=e38b6f09).
 - *Jack Butcher*: [comunidad](https://shop.visualizevalue.com/products/membership), [youtube](https://www.youtube.com/channel/UCusq4zRqitw2C5YWUA6COyQ) y [boletín](https://visualizevalue.substack.com/).
@@ -24,9 +25,11 @@ Para diferenciar, *el contenido en inglés estará en cursiva*.
 - *José Luis Ricón*: [blog](http://nintil.com/) y [patreon](https://www.patreon.com/artir).
 - Juan Rallo: [blog](https://blogs.elconfidencial.com/economia/laissez-faire/), [youtube](https://www.youtube.com/user/juanrallo) y [patreon](https://www.patreon.com/juanrallo).
 - Kiko Llaneras: [web](http://kiko.llaneras.es/) y [boletín](https://plus.elpais.com/newsletters/lnp/1/377).
+- *Lex Fridman*: [podcast](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL?si=vTInSKlZRPqhxfO_A5n8pw).
 - Marcos Vázquez: [blog](https://www.fitnessrevolucionario.com/articulos/) y [podcast](https://www.fitnessrevolucionario.com/radio/).
 - *Matt Clifford*: [boletín](https://www.getrevue.co/profile/mattclifford).
 - *Matthew McAteer*: [blog](https://matthewmcateer.me/).
+- Máximo Gavete: [boletín](https://www.honos.es/).
 - *Michael Huemer*: [blog](https://fakenous.net) y [youtube](https://www.youtube.com/user/owl235).
 - *Naval Ravikant*: [podcast](https://nav.al/) y [otro podcast](https://spearhead.co/).
 - *Patrick Collison*: [web](http://patrickcollison.com/).
@@ -34,23 +37,30 @@ Para diferenciar, *el contenido en inglés estará en cursiva*.
 - René Lázaro: [blog](https://renelazaro7.wixsite.com/intothewilde).
 - *Sam Altman*: [blog](http://blog.samaltman.com/).
 - Samuel Gil: [boletín](https://samuelgil.substack.com/).
-- *Scott Alexander*: [blog](https://slatestarcodex.com/)s.
+- *Scott Alexander*: [blog](https://slatestarcodex.com/).
 - *Shane Parrish*: [web](https://fs.blog/) y [podcast](https://open.spotify.com/show/1VyK52NSZHaDKeMJzT4TSM?si=QKerNkyuTOusyJMeZEGu9Q).
 - *Thibaut*: [boletín](https://connectom.substack.com/).
 - *Tim Ferriss*: [podcast](https://open.spotify.com/show/5qSUyCrk9KR69lEiXbjwXM?si=-6K4DsQiS8GmXLGDDYNX-Q).
 - *Tyler Cowen*: [escribe en Marginal Revolution](https://marginalrevolution.com/) y [podcast](https://open.spotify.com/show/0Z1234tGXD2hVhjFrrhJ7g?si=GtIh6mp4TgKAE0rpTuchlA).
+- *Victoriano Izquierdo*: [boletín](https://www.complexfacts.com/).
 
 Otras webs:
 
-- [*Our World in Data*](https://ourworldindata.org/).
-- [*LessWrong*](https://www.lesswrong.com/).
-- [NadaEsGratis](https://nadaesgratis.es/).
+- [*Our World in Data*](https://ourworldindata.org/)
+- [*LessWrong*](https://www.lesswrong.com/)
+- [NadaEsGratis](https://nadaesgratis.es/)
+- [*QuantaMagazine*](https://www.quantamagazine.org/)
+- [*Spanish Startup Riders*](https://startupriders.substack.com)
+- [*Works In Progress*](https://worksinprogress.co/)
+- [Platanomelón Eroteca](https://www.platanomelon.com/blogs/eroteca)
 
-## Software [*under construction*]
+## Software 
 
 - *Increment*: [revista digital](https://increment.com/)
 - Software 2.0: [podcast](https://open.spotify.com/show/6nUgq0q9wVP6hMekW0dUqm?si=J249zK4DRZyQYgmpf1Zs7g).
+- *Software Daily*: [podcast](https://open.spotify.com/show/6UCtBYL29hwhw4YbTdX83N?si=nXUftnnJS7aoQE1zUEBmUQ).
 - *The Changelog*: [podcast](https://open.spotify.com/show/5bBki72YeKSLUqyD94qsuJ?si=z0kbH98zTByCzxmUtsVGjw).
+- *Zero to Mastery*: [posts](https://zerotomastery.io/blog/) mensuales sobre novedades de Python y Machine Learning.
 
 
 ## Fútbol
@@ -66,18 +76,6 @@ Otras webs:
 - Fútbol Secrets: [youtube](https://www.youtube.com/user/futbolsecrets).
 - Álvaro Benito: [youtube](https://www.youtube.com/channel/UCRjGflmJEhyNpuhj9d-klOg).
 - El Patio: [youtube](https://www.youtube.com/channel/UCX2q1IH3IbtWkgNwiXnd8aQ).
-
-
-## Cosas nuevas que estoy mirando
-
-- [*Quantum Country*](https://quantum.country/): un sitio web para aprender computación y mecánica cuántica.
-- Àlex Claramunt: [DespertaFerro magazine](https://www.despertaferro-ediciones.com/) y [twitter](https://twitter.com/MestreClaramunt).
-- Nacho Alarcón: [artículos](https://www.elconfidencial.com/autores/nacho-alarcon-2258/).
-- Gonzalo Altozano: [podcast](https://www.ivoox.com/en/podcast-mesa-cocina_sq_f1676881_1.html).
-- *Ali y Taimur Abdaal*: [podcast](https://open.spotify.com/show/1Zo2yYgEYWRRpF2jTcNP5R?si=ydZftgwDTZ-j-690Oz4Wag) y [youtube](https://www.youtube.com/channel/UCoOae5nYA7VqaXzerajD0lg).
-- *The TLS - Freedom, Books, Flowers and the Moon*: [podcast](https://open.spotify.com/show/4utWKVl4LrkUeftOdIxf3M?si=Vaw6WcwCT2KMZJUjLrlj7A).
-- [QuantaMagazine](https://www.quantamagazine.org/).
-- *Maria Popova*: [brainpickings](https://www.brainpickings.org/).
 
 ## Boletines como blogs
 
