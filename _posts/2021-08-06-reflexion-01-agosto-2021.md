@@ -8,7 +8,7 @@ date: 2021-08-01
 
 Llevo unas semanas dándole vueltas a un artículo de hace unos meses, [*Adding is favoured over subtracting in problem solving*](https://www.nature.com/articles/d41586-021-00592-0), y quería dedicarle unas líneas al asunto. Puede ser que no escriba nada original, pero a mí me sirve como ejercicio para ordenar pensamientos.
 
-El artículo describe un sesgo a la hora de plantear soluciones a problemas: "es más probable que se consideren soluciones que agregan características que soluciones que las eliminan, incluso cuando eliminar características es más eficiente."
+El artículo describe un sesgo a la hora de plantear soluciones a problemas: «es más probable que se consideren soluciones que agregan características que soluciones que las eliminan, incluso cuando eliminar características es más eficiente.»
 
 En principio, el estudio concluye que la razón primera por la que se ofrecen pocas soluciones sustractivas es porque no se llegan a considerar, no necesariamente porque no se reconozca el valor de esas soluciones. Sin embargo, aunque se venza esta barrera:
 
