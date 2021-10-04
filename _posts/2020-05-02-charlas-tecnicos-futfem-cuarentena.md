@@ -2,7 +2,7 @@
 layout: post
 title: Charlas de técnicos futfem en cuarentena
 permalink: charlas-tecnicos-futfem
-date: 2020-05-02
+date: 3000-05-02
 excerpt: Una recopilación de charlas y conferencias impartidas por miembros de los cuerpos técnicos de equipos de Primera Iberdrola, Reto Iberdrola y la Selección Española de Fútbol durante los días de confinamiento.
 --- 
 

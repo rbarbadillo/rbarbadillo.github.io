@@ -50,7 +50,7 @@ date: 2020-06-07
 <p>En 1974, W. Timothy Gallway publicó lo que ahora se considera la guía clásica del entrenamiento mental para un deportista. El título del libro, e<em>l juego interior del tenis</em>, se refiere a la lucha que se establece entre dos personalidades diferentes:
     <em>yo 1</em> (consciente y analítico) y <em>yo 2</em> (subconsciente y práctico). Gallway defiende que debemos reforzar a nuestro<em> yo 2</em>: que no juzga nuestros errores y tiene una extraordinaria capacidad de aprendizaje. Podéis leer <a href="https://behindtheathlete.es/blog/el-juego-interior-del-tenis-de-tim-gallwey/">un resumen por capítulos aquí</a>,
     pero recomiendo leer el libro entero (que es breve y hay copias gratis online).</p>
-<p>Lo bueno del libro (y por lo que se ha hecho tan popular) es que no solo es extrapolable a cualquier otro deporte, si no al resto de la vida. Hay dos ideas que más me han atraído en particular.</p>
+<p>Lo bueno del libro (y por lo que se ha hecho tan popular) es que no solo es extrapolable a cualquier otro deporte, sino al resto de la vida. Hay dos ideas que más me han atraído en particular.</p>
 <ul>
     <li>
         <p>Gran parte de hacer bien las cosas se trata de comprender qué está sucediendo. Una vez ese input es correcto, puedes entrenar a tu consciente y subconsciente para que realice las correcciones necesarias.</p>
