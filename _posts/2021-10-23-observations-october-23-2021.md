@@ -3,7 +3,7 @@ layout: post
 title: Observations of October 23rd 2021
 permalink: october-23-2021
 excerpt: Why I stopped being interested in politics
-date: 2021-08-01
+date: 2021-10-23
 ---
 
 ![Why not socialism? by G.A. Cohen and Why not capitalism? by Jason Brennan](images/2021-10-23-why-not-socialism-capitalism.jpg)
