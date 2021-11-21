@@ -17,7 +17,7 @@ He decidido ser la enésima persona que hace esto. Será mensual. No será un bo
 
 Con relación a pensar sobre la muerte y qué nos hace seguir siendo nosotros (hace un par de meses [hablé de esto en Twitter](https://twitter.com/raquelbars/status/1430788842135621635){:target="_blank"}):
 
-- Tim Urban escribe sobre [nuestras últimas veces](https://waitbutwhy.com/2015/12/the-tail-end.html{:target="_blank"}). Es particularmente perspicaz el final del artículo, donde habla que al terminar el instituto ya hemos pasado la gran mayoría del tiempo que vamos a estar con nuestros padres y hermanos (él calcula un 93%). Creo que en España es algo menos (por lo menos en mi caso mucho menos) pero los tres puntos clave se sostienen incluso teniéndolo en cuenta:
+- Tim Urban escribe sobre [nuestras últimas veces](https://waitbutwhy.com/2015/12/the-tail-end.html){:target="_blank"}. Es particularmente perspicaz el final del artículo, donde habla que al terminar el instituto ya hemos pasado la gran mayoría del tiempo que vamos a estar con nuestros padres y hermanos (él calcula un 93%). Creo que en España es algo menos (por lo menos en mi caso mucho menos) pero los tres puntos clave se sostienen incluso teniéndolo en cuenta:
 
 >1) Es importante vivir en el mismo lugar que las personas que amas. Probablemente pase 10 veces más tiempo con la gente que vive en mi ciudad que con la gente que vive en otro lugar.
 
