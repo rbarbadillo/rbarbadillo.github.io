@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Observations of October 23rd 2021
+title: Observations of October 23rd, 2021
 permalink: october-23-2021
 excerpt: Why I stopped being interested in politics
 date: 2021-10-23
