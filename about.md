@@ -3,7 +3,7 @@ layout: page
 title: Sobre mí
 ---
 
-Principalmente [desarrollo software](https://www.veridas.com/), [leo](https://www.instagram.com/enocasionesleo/), [escribo](https://rbarbadillo.github.io/) y hago deporte.
+Principalmente [desarrollo software](https://www.tinybird.co/), [leo](https://www.instagram.com/enocasionesleo/), [escribo](https://rbarbadillo.github.io/) y hago deporte.
 
 Vivo entre Santander y Pamplona, dos bonitas ciudades en el norte de España.
 
