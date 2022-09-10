@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: about
 ---
 
 Principalmente [desarrollo software](https://www.tinybird.co/), [leo](https://www.instagram.com/ocasionalmenteleo/), [escribo](https://rbarbadillo.github.io/) y hago deporte.
