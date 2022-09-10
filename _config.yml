@@ -1,11 +1,11 @@
 # Setup
-title:               rb
-tagline:             'un blog'
-description:         'Integritas, consonantia et claritas.'
+title:               ~/rbv
+tagline:             'notas'
+description:         'que te importe y te esfuerces'
 url:                 https://rbarbadillo.github.io
 markdown:            kramdown
 baseurl:             ''
-paginate:            5
+pagination:          20
 permalink:           pretty
 
 # About/contact
