@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fuentes
+title: fuentes
 permalink: sources
 ---
 Una lista de los recursos que suelo leer, ver o escuchar. 
