@@ -5,7 +5,7 @@ title: about
 
 Principalmente [desarrollo software](https://www.tinybird.co/), [leo](https://www.instagram.com/ocasionalmenteleo/), [escribo](https://rbarbadillo.github.io/) y hago deporte.
 
-Vivo entre Santander y Pamplona, dos bonitas ciudades en el norte de España.
+Vivo en Santander, una bonita ciudad en el norte de España.
 
 Durante la cuarentena llevaba [un boletín con contenido curado sobre coronavirus](https://rbarbadillo.substack.com/).
 
