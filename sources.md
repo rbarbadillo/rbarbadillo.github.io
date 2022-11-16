@@ -8,7 +8,8 @@ Una lista de los recursos que suelo leer, ver o escuchar.
 - Anton Howes: [blog](https://antonhowes.substack.com/).
 - [Applied Divinity Studies](https://applieddivinitystudies.com/).
 - Brian Potter: [blog](https://constructionphysics.substack.com/).
-- Bryan Caplan: [escribe en EconLib](https://www.econlib.org/econlog/).
+- Bryan Caplan: [blog](https://betonit.substack.com/).
+- Erik Hoel: [blog](https://erikhoel.substack.com/).
 - Ernesto Castro: [youtube](https://www.youtube.com/user/holamellamololillo).
 - Dwarkesh Patel: [podcast](https://www.youtube.com/c/DwarkeshPatel).
 - Gwern Branwen: [web](https://www.gwern.net/).
