@@ -3,7 +3,7 @@ layout: post
 title: Cachitos de octubre de 2023
 permalink: cachitos-2023-octubre
 excerpt: Enlaces y contenido escogido
-date: 2022-10-14
+date: 2023-10-14
 ---
 
 ## Cosas interesantes en general
