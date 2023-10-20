@@ -1,7 +1,7 @@
 # Setup
 title:               ~/rbv
 tagline:             'notas'
-description:         'que te importe y te esfuerces'
+description:         ''
 url:                 https://rbarbadillo.github.io
 markdown:            kramdown
 baseurl:             ''
