@@ -5,9 +5,7 @@ title: about
 
 Principalmente [desarrollo software](https://www.tinybird.co/), [leo](https://www.instagram.com/ocasionalmenteleo/), [escribo](https://rbarbadillo.github.io/) y hago deporte.
 
-Vivo en Santander, una bonita ciudad en el norte de España.
-
-Durante la cuarentena llevaba [un boletín con contenido curado sobre coronavirus](https://rbarbadillo.substack.com/).
+Vivo entre Santander y Barcelona.
 
 Éste es mi [perfil de LinkedIn](https://www.linkedin.com/in/raquelbarbadillo/).
 
