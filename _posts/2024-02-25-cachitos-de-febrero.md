@@ -6,7 +6,7 @@ excerpt: Enlaces y contenido escogido
 date: 2024-02-25
 ---
 
-- Estoy leyendo [Knowledge, Reality and Value](https://www.goodreads.com/book/show/57610167-knowledge-reality-and-value) de Huemer. El capítulo sobre la teoría de la personalidad (¿qué es lo que nos hace ser nosotros?) ,e ha gustado ‒por dar contexto, desarrolla [esto](https://waitbutwhy.com/2014/12/what-makes-you-you.html)‒ y concluye que la teoría más plausible es que exista el alma. No estoy segura de si es posible que haya otra conclusión: que no exista la identidad, que nos contemos esa historia a nosotros mismos pero que no sea real.
+- Estoy leyendo [Knowledge, Reality and Value](https://www.goodreads.com/book/show/57610167-knowledge-reality-and-value) de Huemer. El capítulo sobre la teoría de la personalidad (¿qué es lo que nos hace ser nosotros?) me ha gustado ‒por dar contexto, desarrolla [esto](https://waitbutwhy.com/2014/12/what-makes-you-you.html)‒ y concluye que la teoría más plausible es que exista el alma. No estoy segura de si es posible que haya otra conclusión: que no exista la identidad, que nos contemos esa historia a nosotros mismos pero que no sea real.
 - Dwarkesh ha sacado un podcast con [Tyler Cowen](https://youtu.be/EY2nbAVZB-k) y [Patrick Collison](https://youtu.be/WU-lBOAS1VQ). Tanta densidad de información que me voy escuchando cachitos de vez en cuando.
 - Encontrar a gente de [poca experiencia, y mucho potencial](https://worktopia.substack.com/i/141089382/a-guide-to-finding-diamonds-in-the-rough). [Relacionado](https://twitter.com/javisantana/status/1757013141903294781).
 - [Cómo fallan los sistemas complejos](https://how.complexsystems.fail/)
