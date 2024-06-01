@@ -5,12 +5,11 @@ permalink: sources
 ---
 Una lista de los recursos que suelo leer, ver o escuchar.
 
-- Ernesto Castro: [youtube](https://www.youtube.com/user/holamellamololillo).
 - Dwarkesh Patel: [podcast](https://www.youtube.com/c/DwarkeshPatel).
 - James Clear: [boletín](https://jamesclear.com/3-2-1).
 - José Luis Ricón: [blog](http://nintil.com/).
-- Lex Fridman: [podcast](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL?si=vTInSKlZRPqhxfO_A5n8pw).
 - Michael Huemer: [blog](https://fakenous.net) y [youtube](https://www.youtube.com/user/owl235).
+- Nadia Asparouhova: [blog](https://nadia.xyz/)
 - Tyler Cowen: [escribe en Marginal Revolution](https://marginalrevolution.com/) y [podcast](https://open.spotify.com/show/0Z1234tGXD2hVhjFrrhJ7g?si=GtIh6mp4TgKAE0rpTuchlA).
 - Vitalik Buterin: [blog](https://vitalik.ca/).
 
@@ -19,7 +18,6 @@ Otros:
 - [LessWrong](https://www.lesswrong.com/)
 - [Our World in Data](https://ourworldindata.org/)
 - [Works In Progress](https://worksinprogress.co/)
-
 
 ## Boletines como blogs
 
