@@ -5,6 +5,6 @@ title: about
 
 Principalmente [programo](https://www.tinybird.co/), [leo](https://www.instagram.com/ocasionalmenteleo/) y escribo.
 
-Vivo entre Santander y Barcelona. Si estás en alguna de las dos ciudades y te interesa algo de lo que he escrito, me haría ilusión que [me mandases un mensaje](https://x.com/raquelbars) y nos tomásemos algo.
+Vivo entre Santander y Barcelona. Si estás en alguna de las dos ciudades y te interesa algo de lo que he escrito, me haría ilusión que [me mandases un mensaje](https://x.com/raquelbars) y nos tomásemos algo. Y si, al contrario, has encontrado algo que no te ha gustado, también me gustaría que me lo comentases, si quieres, puedes hacerlo [anónimamente](https://www.admonymous.co/rbarbadillo).
 
 Éste es mi [perfil de LinkedIn](https://www.linkedin.com/in/rbarbadillo/). Puedes escribirme un correo electrónico a [raquelbarbadillo@pm.me](mailto:raquelbarbadillo@pm.me).
