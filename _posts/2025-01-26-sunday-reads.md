@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sunday Reads Nº1
+title: "Sunday Reads #1"
 permalink: sunday-reads-1
 excerpt: Links and selected content
 date: 2025-01-26
