@@ -9,7 +9,7 @@ I'm interested in many things, but particularly:
 
 - Software engineering and its intersection with other fields
 - Philosophy, especially epistemology and questions of identity
-- Classical music (I studied at conservatory for 9 years)
+- Music, classical and others
 - Reading broadly - from technical papers to essays
 
 I write mostly in Spanish, though occasionally in English. My posts tend to be either personal reflections or collections of interesting things I've found. I believe in the importance of both building things and understanding them deeply - the practical and the theoretical complement each other.
