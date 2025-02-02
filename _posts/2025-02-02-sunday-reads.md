@@ -14,7 +14,7 @@ date: 2025-02-02
 - [Peace and trade.](https://marginalrevolution.com/marginalrevolution/2025/02/peace-and-free-trade.html?utm_source=pocket_saves)
 - This week I was in trains a bunch. I worked with no internet which means programming with no Cursor, I realized how used I am to *tabbing*. It was nice having to type it all for a couple hours.
 - Also, I am very excited to share what we've been working on at Tinybird. We are [already showing some things](https://x.com/tinybirdco/status/1882096210036830541), and will start officially announcing things in the next few weeks. I think it is the coolest thing I have ever worked on.
-- I read some of Ted Chiang's short stories. [One of them is particularly well-known.](https://youtu.be/ZLO4X6UI8OY?feature=shared)
+- I read [some of Ted Chiang's short stories](https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others). [One of them is particularly well-known.](https://youtu.be/ZLO4X6UI8OY?feature=shared)
 - I enjoyed The Weeknd's [new album](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU?si=jEJ9N0f6QgWTZhe77vq-SQ). I'd start with [these](https://open.spotify.com/track/5673WA8EEUSPx1ir26lhGW?si=a6c26c3606924f43) [three](https://open.spotify.com/track/5ZDKPFRZC6QlJpf8bCIXTs?si=155b6034babc4a07) [tracks](https://open.spotify.com/track/2gyHr9WqZeMtzJOpWGuGo6?si=b45b238b57d245e5). Also, the [Anitta](https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC?si=2d3dc8ca8c2a4f8f) collab slaps.
 - [Nabeel's principles](https://nabeelqu.substack.com/p/principles).
 
