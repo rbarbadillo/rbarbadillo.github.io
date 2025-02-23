@@ -8,10 +8,10 @@ date: 2025-02-23
 
 This week I read Byrne Hobart's and Tobias Huber's [Boom: Bubbles and the End of Stagnation](https://press.stripe.com/boom). I started it back when I was in Vietnam but stopped when I came back to Barcelona. I picked it up again this week because the Kindle library reminded me of it, I guess this is the digital parallel of [leaving books laying around at tables](https://youtu.be/zkh3BHP6KJ0?si=sB4K9OBP4o6FggSA&t=406).
 
-I really liked it, it has opened some rabbit-holes:
+I really liked it, it has opened some rabbit holes:
 - [Skunk Works](https://www.freaktakes.com/p/managing-lockheeds-skunk-works)
-- Moore's original paper, [Cramming More Components onto Integrated Circuit](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
-- My favorite: [As we may think](https://worrydream.com/refs/Bush%20-%20As%20We%20May%20Think%20(Life%20Magazine%209-10-1945).pdf) by Vannevar Busch
+- Moore's original paper, [Cramming More Components onto Integrated Circuits](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
+- My favorite: [As We May Think](https://worrydream.com/refs/Bush%20-%20As%20We%20May%20Think%20(Life%20Magazine%209-10-1945).pdf) by Vannevar Bush
 
 Unrelated:
 - [The mandatory MR link](https://marginalrevolution.com/marginalrevolution/2025/02/why-i-think-ai-take-off-is-relatively-slow.html)
