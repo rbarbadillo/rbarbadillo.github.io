@@ -11,7 +11,10 @@ This week I read Byrne Hobart's and Tobias Huber's [Boom: Bubbles and the End of
 I really liked it, it has opened some rabbit holes:
 - [Skunk Works](https://www.freaktakes.com/p/managing-lockheeds-skunk-works)
 - Moore's original paper, [Cramming More Components onto Integrated Circuits](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
-- My favorite: [As We May Think](https://worrydream.com/refs/Bush%20-%20As%20We%20May%20Think%20(Life%20Magazine%209-10-1945).pdf) by Vannevar Bush
+- My favorite: [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) by Vannevar Bush
+
+![the desktop](../images/2025-02-23-as-we-may-think.png)
+
 
 Unrelated:
 - [The mandatory MR link](https://marginalrevolution.com/marginalrevolution/2025/02/why-i-think-ai-take-off-is-relatively-slow.html)
