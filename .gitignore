@@ -42,3 +42,6 @@ validation-report.json
 node_modules
 bower_components
 _site
+
+# Local drafts
+_drafts/*
