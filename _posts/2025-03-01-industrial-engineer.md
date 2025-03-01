@@ -9,7 +9,7 @@ date: 2025-03-01
 I have a bachelor's in Chemical Engineering and an MSc in Industrial Engineering.
 The Industrial Engineering degree in Spain includes a mix of what in the US would be Mechanical, Electrical, Manufacturing, Chemical, and Systems Engineering. Lots of fun if you ask me, I would actually recommend it to someone who doesn't really know yet what to do.
 
-However, I only did the master's because my teachers told me I needed something to be able to "sign-off projects", i.e. you put your stamp on it and are responsible legally and technically for the thing. Of course my teachers told me so because they were incentivized to get more students into their courses, and they didn't know better anyway, most of them did not have any experience in the private industry.
+However, I only did the master's because my professors told me I needed something to be able to "sign-off projects", i.e. you put your stamp on it and are responsible legally and technically for the thing. Of course my they told me so because they were incentivized to get more students into their courses, and they didn't know better anyway, most of them did not have any experience in the private industry.
 
 The problem is I took it to heart, and instead of taking the Chem Eng MSc that they expected, I took the Industrial Eng one.
 That allowed me to sign an ungodly scope of engineering projects and to move to Madrid, which is what I really wanted.
