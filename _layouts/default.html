@@ -11,10 +11,15 @@
          content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
         <div class="masthead">
-            <div class="container">
+            <div class="container masthead-flex">
                 <h3 class="masthead-title">
                     <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}/</a>{{ page.title }}
                 </h3>
+                <nav class="language-filter-top">
+                    <a href="#" class="lang-link active" data-lang="all">All</a> |
+                    <a href="#" class="lang-link" data-lang="en">English</a> |
+                    <a href="#" class="lang-link" data-lang="es">Español</a>
+                </nav>
             </div>
         </div>
 

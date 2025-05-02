@@ -5,11 +5,6 @@ title: notes
 
 <div class="page" lang="en">
     <div class="container content">
-        <div class="language-filter">
-            <button class="lang-btn active" data-lang="all">All</button>
-            <button class="lang-btn" data-lang="en">EN</button>
-            <button class="lang-btn" data-lang="es">ES</button>
-        </div>
         <ul class="post-list">
           {% for post in site.posts %}
           <li class="post-item" data-lang="{{ post.lang | default: 'en' }}">
@@ -40,29 +35,46 @@ title: notes
 </div>
 
 <style>
-.language-filter {
-    margin-bottom: 20px;
-    text-align: center;
+.masthead-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
-
-.lang-btn {
-    padding: 5px 15px;
-    margin: 0 5px;
-    border: 1px solid #ccc;
-    background: white;
+.language-filter-top {
+    font-size: 1rem;
+    font-family: inherit;
+    font-weight: normal;
+    margin-left: auto;
+    white-space: nowrap;
+}
+.lang-link {
+    color: #333;
+    text-decoration: none;
+    margin: 0 0.2em;
+    padding: 0;
+    background: none;
+    border: none;
+    font: inherit;
     cursor: pointer;
-    border-radius: 3px;
+    opacity: 0.7;
+    font-weight: normal;
+    box-shadow: none;
+    outline: none;
+    transition: opacity 0.2s;
 }
-
-.lang-btn.active {
-    background: #333;
-    color: white;
+.lang-link:hover,
+.lang-link:focus {
+    text-decoration: underline;
+    opacity: 1;
 }
-
+.lang-link.active {
+    font-weight: bold;
+    text-decoration: underline;
+    opacity: 1;
+}
 .post-item {
     display: none;
 }
-
 .post-item[data-lang="en"],
 .post-item[data-lang="es"] {
     display: list-item;
@@ -71,18 +83,15 @@ title: notes
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    const langButtons = document.querySelectorAll('.lang-btn');
+    const langLinks = document.querySelectorAll('.lang-link');
     const postItems = document.querySelectorAll('.post-item');
 
-    langButtons.forEach(button => {
-        button.addEventListener('click', function() {
-            // Remove active class from all buttons
-            langButtons.forEach(btn => btn.classList.remove('active'));
-            // Add active class to clicked button
+    langLinks.forEach(link => {
+        link.addEventListener('click', function(e) {
+            e.preventDefault();
+            langLinks.forEach(l => l.classList.remove('active'));
             this.classList.add('active');
-
             const selectedLang = this.dataset.lang;
-            
             postItems.forEach(item => {
                 if (selectedLang === 'all') {
                     item.style.display = 'list-item';
