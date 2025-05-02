@@ -15,11 +15,13 @@
                 <h3 class="masthead-title">
                     <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}/</a>{{ page.title }}
                 </h3>
+                {% if page.title == 'notes' %}
                 <nav class="language-filter-top">
                     <a href="#" class="lang-link active" data-lang="all">All</a> |
                     <a href="#" class="lang-link" data-lang="en">English</a> |
                     <a href="#" class="lang-link" data-lang="es">Español</a>
                 </nav>
+                {% endif %}
             </div>
         </div>
 
