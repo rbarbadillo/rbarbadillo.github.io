@@ -4,6 +4,7 @@ title: Cachitos de julio de 2022
 permalink: cachitos-2022-julio
 excerpt: Enlaces y contenido escogido
 date: 2022-07-31
+lang: es
 ---
 
 - [Viajar no es una cura para la mente](https://moretothat.com/travel-is-no-cure-for-the-mind/): «Tendemos a sobrestimar enormemente el placer que brindan las nuevas experiencias y subestimar el poder de encontrar significado en las actuales. Si bien viajar es una forma fantástica de obtener información sobre culturas desconocidas y formas de vida esclarecedoras, no es una cura para el descontento de la mente.

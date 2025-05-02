@@ -4,6 +4,7 @@ title: Bits of August 2024
 permalink: bits-2024-august
 excerpt: Links and selected content
 date: 2024-08-23
+lang: en
 ---
 
 - [Active unemployment](https://www.palladiummag.com/2022/01/06/quit-your-job).

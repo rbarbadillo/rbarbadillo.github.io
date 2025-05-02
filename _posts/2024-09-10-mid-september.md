@@ -4,6 +4,7 @@ title: Mid-September 2024
 permalink: 2024-september-mid
 excerpt: Links and selected content
 date: 2024-09-10
+lang: en
 ---
 
 - Some of the [infra challenges](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/) training Llama. The [storage one](https://youtu.be/S9c27b-jD0c?si=HD4HyPwyGv1ja0nq) is interesting too.

@@ -4,6 +4,7 @@ title: "Sunday Reads #3"
 permalink: sunday-reads-3
 excerpt: Links and selected content
 date: 2025-02-16
+lang: en
 ---
 
 These past two weeks I have not read that much internet content. I'm almost finished with [Flowers for Algernon](https://en.wikipedia.org/wiki/Flowers_for_Algernon). I've loved it from the start, I really liked the diaries format and using the way Charlie writes to tell the story. 

@@ -4,6 +4,7 @@ title: Transformacion en desescalada
 permalink: transformacion-en-desescalada
 excerpt: Links, Patrick Collison y Range
 date: 2020-05-23
+lang: es
 --- 
 ### Links
 

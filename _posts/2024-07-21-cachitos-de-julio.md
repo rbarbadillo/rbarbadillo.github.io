@@ -4,6 +4,7 @@ title: Cachitos de julio de 2024
 permalink: cachitos-2024-julio
 excerpt: Enlaces y contenido escogido
 date: 2024-07-21
+lang: es
 ---
 
 - [Habrá que leer Hillbilly Elegy](https://www.politico.com/news/magazine/2024/07/18/jd-vance-world-view-sources-00168984). De momento estoy [leyendo](https://press.stripe.com/the-revolt-of-the-public) a [Martín Gurri](https://youtu.be/ERIdNY6fwBM).

@@ -4,6 +4,7 @@ title: Elinor Ostrom e individuos soberanos
 permalink: ostrom-individuos-soberanos
 excerpt: Links, una persona y un libro
 date: 2020-06-21
+lang: es
 --- 
 <h3>Links</h3>
 <ul>

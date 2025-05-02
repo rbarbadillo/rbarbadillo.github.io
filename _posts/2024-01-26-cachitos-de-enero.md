@@ -4,6 +4,7 @@ title: Cachitos de enero de 2024
 permalink: cachitos-2024-enero
 excerpt: Enlaces y contenido escogido
 date: 2024-01-26
+lang: es
 ---
 
 - He empezado a leer a [Byrne Hobart](https://meridian.mercury.com/byrne-hobart). Es un (ex?)analista financiero convertido en bloguero. Algunas cosas que me han gustado: [Read](https://byrnehobart.medium.com/read-2c3d4fba90ab), [The 30-Year Mortgage is an Intrinsically Toxic Product](https://byrnehobart.medium.com/the-30-year-mortgage-is-an-intrinsically-toxic-product-200c901746a), [Optionality is for Innumerate Cowards](https://byrnehobart.medium.com/optionality-is-for-innumerate-cowards-f2c5a759b607), [Snowflake, Revisited](https://www.thediff.co/archive/snowflake-revisited/) y [The Economics of Engineering Blogs](https://www.thediff.co/archive/the-economics-of-engineering-blogs/)

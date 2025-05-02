@@ -4,6 +4,7 @@ title: Cachitos de junio de 2024
 permalink: cachitos-2024-junio
 excerpt: Enlaces y contenido escogido
 date: 2024-06-23
+lang: es
 ---
 
 - [Chollet y Dwarkesh](https://youtu.be/UakqL6Pj9xo?si=NvrHNbmQyRqvSCa6) presentando [ARC](https://arcprize.org/). Creo que esta parte resume bien las diferencias (y similitudes) de Chollet con AGI-optimists:

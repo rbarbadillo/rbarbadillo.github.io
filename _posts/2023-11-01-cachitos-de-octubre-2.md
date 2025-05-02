@@ -4,6 +4,7 @@ title: Cachitos de octubre de 2023 (pt. 2)
 permalink: cachitos-2023-octubre-2
 excerpt: Enlaces y contenido escogido
 date: 2023-11-01
+lang: es
 ---
 
 Un año sin poner nada y publicas dos veces en un mes. Este es corto:

@@ -5,9 +5,14 @@ title: notes
 
 <div class="page" lang="en">
     <div class="container content">
-        <ul>
+        <div class="language-filter">
+            <button class="lang-btn active" data-lang="all">All</button>
+            <button class="lang-btn" data-lang="en">EN</button>
+            <button class="lang-btn" data-lang="es">ES</button>
+        </div>
+        <ul class="post-list">
           {% for post in site.posts %}
-          <li>
+          <li class="post-item" data-lang="{{ post.lang | default: 'en' }}">
             {% include date.html date=post.date %}
             &raquo;
             <a href="{{ post.url }}"> {{ post.title }}</a>
@@ -33,3 +38,59 @@ title: notes
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+
+<style>
+.language-filter {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.lang-btn {
+    padding: 5px 15px;
+    margin: 0 5px;
+    border: 1px solid #ccc;
+    background: white;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.lang-btn.active {
+    background: #333;
+    color: white;
+}
+
+.post-item {
+    display: none;
+}
+
+.post-item[data-lang="en"],
+.post-item[data-lang="es"] {
+    display: list-item;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const langButtons = document.querySelectorAll('.lang-btn');
+    const postItems = document.querySelectorAll('.post-item');
+
+    langButtons.forEach(button => {
+        button.addEventListener('click', function() {
+            // Remove active class from all buttons
+            langButtons.forEach(btn => btn.classList.remove('active'));
+            // Add active class to clicked button
+            this.classList.add('active');
+
+            const selectedLang = this.dataset.lang;
+            
+            postItems.forEach(item => {
+                if (selectedLang === 'all') {
+                    item.style.display = 'list-item';
+                } else {
+                    item.style.display = item.dataset.lang === selectedLang ? 'list-item' : 'none';
+                }
+            });
+        });
+    });
+});
+</script>

@@ -4,6 +4,7 @@ title: Cachitos de mayo de 2022
 permalink: cachitos-2022-mayo
 excerpt: Enlaces y contenido escogido
 date: 2022-05-21
+lang: es
 ---
 
 Vamos a hacer como que no he estado cinco meses sin publicar nada. Veamos:

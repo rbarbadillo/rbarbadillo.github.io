@@ -4,6 +4,7 @@ title: Reflexión del 6 de enero de 2021
 permalink: seis-enero-2021
 excerpt: Memento mori
 date: 2021-01-06
+lang: es
 --- 
 
 Cada vez identifico más lugares con la muerte. Conduzco por algunas calles de mi pueblo y pienso «en esta curva murieron esos dos chicos en moto» o paro en ese semáforo de al lado de la casa de Inma y pienso en ella, en lo fuerte que era y me culpo por no haberme despedido como era debido.

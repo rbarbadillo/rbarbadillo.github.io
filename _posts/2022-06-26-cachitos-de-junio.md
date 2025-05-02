@@ -4,6 +4,7 @@ title: Cachitos de junio de 2022
 permalink: cachitos-2022-junio
 excerpt: Enlaces y contenido escogido
 date: 2022-06-26
+lang: es
 ---
 
 - Este mes he estado escuchando [las sesiones de Bizarrap](https://www.youtube.com/c/Bizarrap/videos) (ya, ya sé que llego muy tarde), [el nuevo disco de Drake](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw?si=GwasmxGgQsuaa9mTfyGdZg) y, lo más importante, [el nuevo EP de MAGENTA](https://open.spotify.com/album/7iR4dGg2MrmVagELFMdpJI?si=6z0L4KZWSJqIDNoZQX0EyA) (antes eran [FAUVE](https://www.youtube.com/watch?v=wDxchoqHQbg)).

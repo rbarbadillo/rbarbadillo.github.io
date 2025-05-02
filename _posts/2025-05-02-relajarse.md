@@ -4,6 +4,7 @@ title: "Relajarse"
 permalink: relajarse
 excerpt: 
 date: 2025-05-02
+lang: es
 ---
 
 La forma más común ahora mismo para relajarme es dar paseos por la ciudad con Carmen. Barcelona es bonita, la temperatura es agradable, vamos al Syra de Sant Joan a coger un café y caminamos. A Carmen le encanta fijarse en los edificios, es muy sensible a rincones particularmente bellos o feos. Me señala terrazas escondidas con plantas tropicales, edificios horrendos en medio del modernismo catalán, librerías repletas de libros que se ven a través de una bonita galería, etc. Me gusta aprender a fijarme en esto.

@@ -4,6 +4,7 @@ title: Cachitos de mayo de 2024
 permalink: cachitos-2024-mayo
 excerpt: Enlaces y contenido escogido
 date: 2024-06-02
+lang: es
 ---
 
 - [Aprender vs estar entretenido](https://x.com/karpathy/status/1756380066580455557)

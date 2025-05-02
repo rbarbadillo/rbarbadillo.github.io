@@ -4,6 +4,7 @@ title: Cachitos de otoño de 2024
 permalink: cachitos-2024-otono
 excerpt: Enlaces y contenido escogido
 date: 2024-11-09
+lang: es
 ---
 
 - Este [álbum](https://open.spotify.com/intl-es/album/4tBXKI7G2sQ67Y5VAsxkzv?si=juTHqyJQQLSJYe6LrtvcIQ) y este [tema](https://open.spotify.com/intl-es/track/7tJ2ZPwHRrPTy1OW7jais0?si=3857377c84664087).

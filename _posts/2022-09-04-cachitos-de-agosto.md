@@ -4,6 +4,7 @@ title: Cachitos de agosto de 2022
 permalink: cachitos-2022-agosto
 excerpt: Enlaces y contenido escogido
 date: 2022-09-04
+lang: es
 ---
 
 Nos hemos dado cuenta todos de que ya es septiembre, así que en este voy a hacer un poco de trampa. También he añadido secciones, por innovar.

@@ -4,6 +4,7 @@ title: Reflexión del 1 de agosto de 2021
 permalink: uno-agosto-2021
 excerpt: Sobre resolver por eliminación
 date: 2021-08-01
+lang: es
 ---
 
 Llevo unas semanas dándole vueltas a un artículo de hace unos meses, [*Adding is favoured over subtracting in problem solving*](https://www.nature.com/articles/d41586-021-00592-0), y quería dedicarle unas líneas al asunto. Puede ser que no escriba nada original, pero a mí me sirve como ejercicio para ordenar pensamientos.

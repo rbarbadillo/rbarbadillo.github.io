@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Imbalanced"
+permalink: imbalanced
+date: 2025-02-19
+lang: en
+---
+
 [Nabeel recommends honing in the things that make you imbalanced](https://nabeelqu.co/principles).
 
 My own assessment:
