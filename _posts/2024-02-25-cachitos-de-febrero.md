@@ -4,6 +4,7 @@ title: Cachitos de febrero de 2024
 permalink: cachitos-2024-febrero
 excerpt: Enlaces y contenido escogido
 date: 2024-02-25
+lang: es
 ---
 
 - Estoy leyendo [Knowledge, Reality and Value](https://www.goodreads.com/book/show/57610167-knowledge-reality-and-value) de Huemer. El capítulo sobre la teoría de la personalidad (¿qué es lo que nos hace ser nosotros?) me ha gustado ‒por dar contexto, desarrolla [esto](https://waitbutwhy.com/2014/12/what-makes-you-you.html)‒ y concluye que la teoría más plausible es que exista el alma. No estoy segura de si es posible que haya otra conclusión: que no exista la identidad, que nos contemos esa historia a nosotros mismos pero que no sea real.

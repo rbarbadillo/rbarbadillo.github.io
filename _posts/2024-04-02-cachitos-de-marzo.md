@@ -4,6 +4,7 @@ title: Cachitos de marzo de 2024
 permalink: cachitos-2024-marzo
 excerpt: Enlaces y contenido escogido
 date: 2024-04-02
+lang: es
 ---
 
 - He estado [leyendo Huemer](https://www.goodreads.com/en/book/show/57610167), que [me ha llevado a Bertrand Russell](https://www.pensamientopenal.com.ar/system/files/2016/03/doctrina43032.pdf) y luego [la biografía de Parfit](https://www.goodreads.com/book/show/61388047-parfit). Creo que por fin empiezo a tener un marco de referencia para entender la filosofía y sus términos. El libro sobre Parfit me lo encontré de casualidad en una librería de Barcelona, da bastante contexto de las raíces de Effective Altruism, [All Souls](https://en.wikipedia.org/wiki/All_Souls_College,_Oxford) y, al ser Parfit tan amplio, toca bastantes campos filosóficos y sus avances en el siglo XX. Estoy ahora con [esto](https://www.anagrama-ed.es/libro/narrativas-hispanicas/maniac/9788433911001/NH_723).

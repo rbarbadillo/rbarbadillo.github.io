@@ -4,6 +4,7 @@ title: "Sunday Reads #1"
 permalink: sunday-reads-1
 excerpt: Links and selected content
 date: 2025-01-26
+lang: en
 ---
 
 - [Analysis on DeepSeek costs](https://www.interconnects.ai/p/deepseek-v3-and-the-actual-cost-of), [a take on chips](https://x.com/nearcyan/status/1882862342838554821).

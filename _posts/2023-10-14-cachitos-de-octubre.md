@@ -4,6 +4,7 @@ title: Cachitos de octubre de 2023
 permalink: cachitos-2023-octubre
 excerpt: Enlaces y contenido escogido
 date: 2023-10-14
+lang: es
 ---
 
 ## Cosas interesantes en general

@@ -3,6 +3,7 @@ layout: post
 title: Mis diferentes casas
 permalink: mis-diferentes-casas
 date: 2020-04-29
+lang: es
 --- 
 
 Nací y crecí en un pueblo colindante a la municipalidad de Santander llamado Santa Cruz de Bezana. Aquí en verano todo es muy idílico y, como con todo lo maravilloso, no te das cuenta. Puedes darte un paseo (largo) hasta la playa o coger el coche y darte un chapuzón todos los días después del trabajo. Tomarte una caña con tus amigos en El Río de la Pila (ay, el Cientocero), irte a la Bahía para tomar la última a las 5 de la mañana… Pasé así mis años universitarios, que no los cambiaría por nada del mundo. Otro ritmo de vida.

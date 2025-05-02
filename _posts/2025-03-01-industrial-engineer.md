@@ -4,6 +4,7 @@ title: "Industrial Engineer"
 permalink: industrial-engineer
 excerpt: Atoms vs bytes
 date: 2025-03-01
+lang: en
 ---
 
 I have a bachelor's in Chemical Engineering and an MSc in Industrial Engineering.

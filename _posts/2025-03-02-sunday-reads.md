@@ -4,6 +4,7 @@ title: "Sunday Reads #5"
 permalink: sunday-reads-5
 excerpt: Links and selected content
 date: 2025-03-02
+lang: en
 ---
 
 - [A very good Tyler Cowen profile](https://www.economist.com/1843/2025/02/28/tyler-cowen-the-man-who-wants-to-know-everything)

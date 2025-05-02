@@ -4,6 +4,7 @@ title: "Sunday Reads #2"
 permalink: sunday-reads-2
 excerpt: Links and selected content
 date: 2025-02-02
+lang: en
 ---
 
 - [AI firms](https://www.dwarkeshpatel.com/p/ai-firm).

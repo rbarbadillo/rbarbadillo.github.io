@@ -4,6 +4,7 @@ title: Cachitos de noviembre de 2021
 permalink: cachitos-2021-noviembre
 excerpt: Enlaces y contenido escogido
 date: 2021-11-21
+lang: es
 ---
 
 He decidido ser la enésima persona que hace esto. Será mensual. No será un boletín pero podéis suscribíos al [feed RSS](https://rbarbadillo.github.io/feed.xml){:target="_blank"}. Sí, es una referencia sin mucho sentido a [Cachitos](https://www.rtve.es/play/videos/cachitos-de-hierro-y-cromo/).

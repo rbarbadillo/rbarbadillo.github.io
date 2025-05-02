@@ -4,6 +4,7 @@ title: Cachitos de noviembre de 2023
 permalink: cachitos-2023-noviembre
 excerpt: Enlaces y contenido escogido
 date: 2023-12-02
+lang: es
 ---
 
 - [4500 millones de años en una hora, con música](https://youtu.be/S7TUe5w6RHo){:target="_blank"}.

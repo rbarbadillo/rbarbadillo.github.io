@@ -4,6 +4,7 @@ title: Reflexión del 3 de enero de 2021
 permalink: tres-enero-2021
 excerpt: Sobre surf, guitarra clásica y profesores.
 date: 2021-01-03
+lang: es
 --- 
 
 Me encanta ver a niños hacer surf. Es maravilloso verles hacer peripecias encima de las olas, enfrentarse a enormes paredes de agua sin miedo y con agilidad. Cuando estoy en el agua los observo con cierta envidia y siempre pienso: «Qué suerte empezar tan pronto, ojalá lo hubiese hecho yo».

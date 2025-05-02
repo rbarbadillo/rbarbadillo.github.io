@@ -4,6 +4,7 @@ title: Cachitos de enero de 2022
 permalink: cachitos-2022-enero
 excerpt: Enlaces y contenido escogido
 date: 2022-01-21
+lang: es
 ---
 
 Esta edición de Cachitos va a ser un poco rara. Va a haber mucha música, algunos amigos y poco de lo que ha aparecido en las dos ediciones anteriores. Pero va a ser una edición [con mucha alma](https://javisantana.com/blog.html){:target="_blank"}. 
