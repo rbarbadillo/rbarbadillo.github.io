@@ -1,0 +1,117 @@
+---
+layout: default
+---
+
+<article class="paper">
+    <header class="paper-header">
+        <h1 class="paper-title">{{ page.title }}</h1>
+        <div class="paper-meta">
+            <span class="paper-authors">{{ page.authors }}</span>
+            <span class="paper-year">({{ page.year }})</span>
+        </div>
+    </header>
+
+    <div class="paper-content">
+        {{ content }}
+    </div>
+
+    <footer class="paper-footer">
+        <nav class="paper-nav">
+            {% if page.previous %}
+            <a href="{{ page.previous.url }}" class="paper-nav-link previous">
+                ← {{ page.previous.title }}
+            </a>
+            {% endif %}
+            {% if page.next %}
+            <a href="{{ page.next.url }}" class="paper-nav-link next">
+                {{ page.next.title }} →
+            </a>
+            {% endif %}
+        </nav>
+    </footer>
+</article>
+
+<style>
+.paper {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2em 0;
+}
+
+.paper-header {
+    margin-bottom: 2em;
+    text-align: center;
+}
+
+.paper-title {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+.paper-meta {
+    color: #666;
+    font-style: italic;
+    margin-bottom: 2em;
+}
+
+.paper-content {
+    line-height: 1.6;
+}
+
+.paper-content h2 {
+    margin-top: 2em;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 0.3em;
+}
+
+.paper-content ul,
+.paper-content ol {
+    padding-left: 1.5em;
+}
+
+.paper-content li {
+    margin-bottom: 0.5em;
+}
+
+.paper-footer {
+    margin-top: 3em;
+    padding-top: 2em;
+    border-top: 1px solid #eee;
+}
+
+.paper-nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.paper-nav-link {
+    color: #333;
+    text-decoration: none;
+    padding: 0.5em 1em;
+    border-radius: 3px;
+    transition: background-color 0.2s;
+}
+
+.paper-nav-link:hover {
+    background-color: #f5f5f5;
+}
+
+@media (max-width: 768px) {
+    .paper {
+        padding: 1em;
+    }
+    
+    .paper-title {
+        font-size: 1.5em;
+    }
+    
+    .paper-nav {
+        flex-direction: column;
+        gap: 1em;
+    }
+    
+    .paper-nav-link {
+        text-align: center;
+    }
+}
+</style> 
