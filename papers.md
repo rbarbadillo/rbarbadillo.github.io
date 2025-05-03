@@ -1,11 +1,11 @@
 ---
 layout: page
-title: AI Papers
+title: Notes on AI Papers
 permalink: /papers/
 ---
 
 <h1>Notes on AI Papers</h1>
-<p>I think knowing the basics is the most important</p>
+<p>I think knowing the basics is the most important, so here we go.</p>
 
 <ul>
   <li>
