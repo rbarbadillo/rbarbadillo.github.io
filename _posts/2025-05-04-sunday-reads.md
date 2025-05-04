@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Sunday Reads #5"
-permalink: sunday-reads-5
+title: "Sunday Reads #6"
+permalink: sunday-reads-6
 excerpt: Links and selected content
 date: 2025-05-04
 lang: en
