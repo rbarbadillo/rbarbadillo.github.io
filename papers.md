@@ -5,7 +5,7 @@ permalink: /papers/
 ---
 
 <h1>Notes on AI</h1>
-<p>I think knowing the basics is the most important, so here we go.</p>
+<p>I think knowing the basics is the most important, so here we go.  This is just meant to be some of my notes that help me understand what I am reading. </p>
 
 <ul>
   <li>
