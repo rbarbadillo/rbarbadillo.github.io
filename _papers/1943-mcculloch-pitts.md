@@ -17,10 +17,12 @@ They idealised a biological neuron as a binary device that either fires (`1`) or
 
 The paper opens with five axioms. Re-phrased with symbols I can understand better:
 
-1. Activity for a neuron is either `1` or `0`: $x_i(t)\in\{0,1\}$. 
-2. If total excitation ≥ fixed threshold (θ) the neuron fires in the _next_ instant: $x_i(t+1)=H\!\bigl(\sum_j w_{ij}\,x_j(t)-θ_i\bigr)$ where $H$ is the [unit step function](https://en.wikipedia.org/wiki/Heaviside_step_function) (MP treat inhibition as a veto; I’m modelling that as –∞ for convenience).
+1. Activity for a neuron is either $1$ or $0$: $x_i(t)\in\{0,1\}$.
+2. If total excitation $\geq$ fixed threshold ($\theta$) the neuron fires in the _next_ instant:  
+   $x_i(t+1)=H\left(\sum_j w_{ij}\,x_j(t)-\theta_i\right)$  
+   where $H$ is the [unit step function](https://en.wikipedia.org/wiki/Heaviside_step_function) (MP treat inhibition as a veto; I’m modelling that as $-\infty$ for convenience).
 3. Delay is negligible and identical for every synapse.
-4. Synapses are either **excitatory** (positive weight) or **inhibitory** (sufficient to block firing regardless of excitation), i.e. an inhibitory input sets the argument of *H* to $-\infty$.
+4. Synapses are either **excitatory** (positive weight) or **inhibitory** (sufficient to block firing regardless of excitation), i.e. an inhibitory input sets the argument of $H$ to $-\infty$.
 5. The network structure (weights, connections) is fixed. No learning considered; this is a logic circuit.
 
 With this, we can easily build [logic gates](https://en.wikipedia.org/wiki/Logic_gate) with a single neuron:
